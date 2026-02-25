@@ -1,0 +1,42 @@
+{
+  "finess": "860011410",
+  "raison_sociale": "CRF VISION-AUDITION SAINT BENOIT",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "86",
+    "dep_name": "VIENNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "03": {
+        "0306": {
+          "0306LA0": {
+            "nb_journees_total": "984",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "984",
+            "sexe_ratio": "42.3%",
+            "age_moyen": "58.92",
+            "avq_physique": "4.02",
+            "avq_relationnel": "3.56",
+            "nb_actes_csarr": "2.33"
+          }
+        }
+      },
+      "02": {
+        "0203": {
+          "0203LA0": {
+            "nb_journees_total": "3068",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "3068",
+            "sexe_ratio": "32.1%",
+            "age_moyen": "66.5",
+            "avq_physique": "7.56",
+            "avq_relationnel": "2.57",
+            "nb_actes_csarr": "2.31"
+          }
+        }
+      }
+    }
+  }
+}

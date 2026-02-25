@@ -1,0 +1,110 @@
+{
+  "finess": "660780842",
+  "raison_sociale": "VAL PYRENE",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "66",
+    "dep_name": "PYRÉNÉES-ORIENTALES"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1903": {
+          "1903SA2": {
+            "nb_journees_total": "9594",
+            "nb_journees_hc": "9594",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "86.4%",
+            "age_moyen": "38.08",
+            "avq_physique": "4.05",
+            "avq_relationnel": "4.98",
+            "nb_actes_csarr": "2.54"
+          },
+          "1903UA2": {
+            "nb_journees_total": "98",
+            "nb_journees_hc": "98",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "90.8%",
+            "age_moyen": "38.22",
+            "avq_physique": "4",
+            "avq_relationnel": "4.86",
+            "nb_actes_csarr": "1.82"
+          },
+          "1903SB2": {
+            "nb_journees_total": "212",
+            "nb_journees_hc": "212",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "76.9%",
+            "age_moyen": "39.45",
+            "avq_physique": "4.13",
+            "avq_relationnel": "5.57",
+            "nb_actes_csarr": "2.42"
+          },
+          "1903UA1": {
+            "nb_journees_total": "164",
+            "nb_journees_hc": "164",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "79.9%",
+            "age_moyen": "41.77",
+            "avq_physique": "4",
+            "avq_relationnel": "5.01",
+            "nb_actes_csarr": "2.22"
+          },
+          "1903SA1": {
+            "nb_journees_total": "10282",
+            "nb_journees_hc": "10282",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "79%",
+            "age_moyen": "44.02",
+            "avq_physique": "4.02",
+            "avq_relationnel": "4.98",
+            "nb_actes_csarr": "2.58"
+          },
+          "1903UB1": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "1903SB1": {
+            "nb_journees_total": "77",
+            "nb_journees_hc": "77",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "63.6%",
+            "age_moyen": "55.27",
+            "avq_physique": "4.62",
+            "avq_relationnel": "5.86",
+            "nb_actes_csarr": "2.6"
+          }
+        },
+        "1909": {
+          "1909SA2": {
+            "nb_journees_total": "49",
+            "nb_journees_hc": "49",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "30",
+            "avq_physique": "4",
+            "avq_relationnel": "5",
+            "nb_actes_csarr": "2.67"
+          },
+          "1909UA1": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          }
+        }
+      }
+    }
+  }
+}

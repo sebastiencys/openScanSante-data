@@ -1,0 +1,40 @@
+{
+  "finess": "640781308",
+  "raison_sociale": "CLINIQUE PRINCESS",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "64",
+    "dep_name": "PYRÉNÉES-ATLANTIQUES"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1906": {
+          "1906LA0": {
+            "nb_journees_total": "52",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "52",
+            "sexe_ratio": "1.9%",
+            "age_moyen": "63.6",
+            "avq_physique": "5.96",
+            "avq_relationnel": "5.4",
+            "nb_actes_csarr": "3.1"
+          }
+        },
+        "1909": {
+          "1909LA0": {
+            "nb_journees_total": "2235",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "2235",
+            "sexe_ratio": "3.7%",
+            "age_moyen": "47.39",
+            "avq_physique": "6",
+            "avq_relationnel": "4.29",
+            "nb_actes_csarr": "3.1"
+          }
+        }
+      }
+    }
+  }
+}

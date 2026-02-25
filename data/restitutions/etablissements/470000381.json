@@ -1,0 +1,58 @@
+{
+  "finess": "470000381",
+  "raison_sociale": "CH DEPARTEMENTAL DE LA CANDELIE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "47",
+    "dep_name": "LOT-ET-GARONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1903": {
+          "1903SA2": {
+            "nb_journees_total": "53",
+            "nb_journees_hc": "53",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "42.15",
+            "avq_physique": "4",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "1.17"
+          },
+          "1903UA2": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "1903UA1": {
+            "nb_journees_total": "457",
+            "nb_journees_hc": "457",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "68.9%",
+            "age_moyen": "46.14",
+            "avq_physique": "4.09",
+            "avq_relationnel": "4.04",
+            "nb_actes_csarr": "1.16"
+          },
+          "1903SA1": {
+            "nb_journees_total": "2139",
+            "nb_journees_hc": "2139",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "59.9%",
+            "age_moyen": "46.18",
+            "avq_physique": "4.05",
+            "avq_relationnel": "4.01",
+            "nb_actes_csarr": "1.37"
+          }
+        }
+      }
+    }
+  }
+}

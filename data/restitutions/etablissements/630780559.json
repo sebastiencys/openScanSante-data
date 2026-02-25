@@ -1,0 +1,130 @@
+{
+  "finess": "630780559",
+  "raison_sociale": "MAISON D'ENFANTS TZA NOU",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "63",
+    "dep_name": "PUY-DE-DÔME"
+  },
+  "periodes": {
+    "2025-11": {
+      "09": {
+        "0921": {
+          "0921UA1": {
+            "nb_journees_total": "200",
+            "nb_journees_hc": "200",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "50%",
+            "age_moyen": "14.6",
+            "avq_physique": "6.03",
+            "avq_relationnel": "3.04",
+            "nb_actes_csarr": "2.48"
+          },
+          "0921UB1": {
+            "nb_journees_total": "100",
+            "nb_journees_hc": "100",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "60%",
+            "age_moyen": "7.99",
+            "avq_physique": "6.06",
+            "avq_relationnel": "3.25",
+            "nb_actes_csarr": "3.13"
+          }
+        }
+      },
+      "03": {
+        "0306": {
+          "0306TB1": {
+            "nb_journees_total": "60",
+            "nb_journees_hc": "60",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "66.7%",
+            "age_moyen": "8.33",
+            "avq_physique": "6",
+            "avq_relationnel": "3.32",
+            "nb_actes_csarr": "2.6"
+          },
+          "0306TA1": {
+            "nb_journees_total": "20",
+            "nb_journees_hc": "20",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "14",
+            "avq_physique": "6",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "2.25"
+          }
+        }
+      },
+      "04": {
+        "0409": {
+          "0409PA1": {
+            "nb_journees_total": "180",
+            "nb_journees_hc": "180",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "77.8%",
+            "age_moyen": "14.56",
+            "avq_physique": "6.11",
+            "avq_relationnel": "3.06",
+            "nb_actes_csarr": "2.53"
+          },
+          "0409PB1": {
+            "nb_journees_total": "540",
+            "nb_journees_hc": "540",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "59.3%",
+            "age_moyen": "9.49",
+            "avq_physique": "6.27",
+            "avq_relationnel": "3.19",
+            "nb_actes_csarr": "2.66"
+          }
+        }
+      },
+      "10": {
+        "1006": {
+          "1006PB2": {
+            "nb_journees_total": "415",
+            "nb_journees_hc": "415",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "59.8%",
+            "age_moyen": "11.94",
+            "avq_physique": "6.2",
+            "avq_relationnel": "3.27",
+            "nb_actes_csarr": "2.36"
+          },
+          "1006PA1": {
+            "nb_journees_total": "2008",
+            "nb_journees_hc": "2008",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "39.1%",
+            "age_moyen": "14.46",
+            "avq_physique": "6.01",
+            "avq_relationnel": "3.45",
+            "nb_actes_csarr": "2.23"
+          },
+          "1006PB1": {
+            "nb_journees_total": "893",
+            "nb_journees_hc": "893",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "60.7%",
+            "age_moyen": "11.52",
+            "avq_physique": "6.04",
+            "avq_relationnel": "3.5",
+            "nb_actes_csarr": "2.35"
+          },
+          "1006PA2": {
+            "nb_journees_total": "1890",
+            "nb_journees_hc": "1890",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "42.9%",
+            "age_moyen": "14.94",
+            "avq_physique": "6.1",
+            "avq_relationnel": "3.43",
+            "nb_actes_csarr": "2.17"
+          }
+        }
+      }
+    }
+  }
+}

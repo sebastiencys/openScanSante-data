@@ -1,0 +1,28 @@
+{
+  "finess": "590780060",
+  "raison_sociale": "INSTITUT OPHTALMIQUE",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "59",
+    "dep_name": "NORD"
+  },
+  "periodes": {
+    "2025-11": {
+      "02": {
+        "0203": {
+          "0203LA0": {
+            "nb_journees_total": "2288",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "2288",
+            "sexe_ratio": "37.3%",
+            "age_moyen": "67.1",
+            "avq_physique": "4.76",
+            "avq_relationnel": "2.07",
+            "nb_actes_csarr": "3.36"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "finess": "170781199",
+  "raison_sociale": "CENTRE ALCOOLOGIQUE ALPHA - ROYAN",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "17",
+    "dep_name": "CHARENTE-MARITIME"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1903": {
+          "1903SA2": {
+            "nb_journees_total": "2156",
+            "nb_journees_hc": "2156",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "85.1%",
+            "age_moyen": "43.14",
+            "avq_physique": "4.01",
+            "avq_relationnel": "4.08",
+            "nb_actes_csarr": "1.96"
+          },
+          "1903UA2": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "1903SB2": {
+            "nb_journees_total": "255",
+            "nb_journees_hc": "255",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "85.5%",
+            "age_moyen": "36.93",
+            "avq_physique": "4",
+            "avq_relationnel": "4.75",
+            "nb_actes_csarr": "2.14"
+          },
+          "1903UA1": {
+            "nb_journees_total": "35",
+            "nb_journees_hc": "35",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "62.9%",
+            "age_moyen": "42.03",
+            "avq_physique": "4",
+            "avq_relationnel": "4.17",
+            "nb_actes_csarr": "3.06"
+          },
+          "1903SA1": {
+            "nb_journees_total": "11761",
+            "nb_journees_hc": "11761",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "67.9%",
+            "age_moyen": "48.86",
+            "avq_physique": "4.01",
+            "avq_relationnel": "4.06",
+            "nb_actes_csarr": "2"
+          },
+          "1903UB1": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "1903SB1": {
+            "nb_journees_total": "703",
+            "nb_journees_hc": "703",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "78.1%",
+            "age_moyen": "46.15",
+            "avq_physique": "4.03",
+            "avq_relationnel": "4.65",
+            "nb_actes_csarr": "2.18"
+          }
+        }
+      }
+    }
+  }
+}

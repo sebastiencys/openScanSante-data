@@ -1,0 +1,118 @@
+{
+  "finess": "340024512",
+  "raison_sociale": "SSR JARDINS DE SOPHIA CASTELNAU LE LEZ",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "34",
+    "dep_name": "HÉRAULT"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1909": {
+          "1909LA0": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "17",
+            "sexe_ratio": "0%",
+            "age_moyen": "80",
+            "avq_physique": "5",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "4.06"
+          }
+        }
+      },
+      "01": {
+        "0109": {
+          "0109IA0": {
+            "nb_journees_total": "49",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "49",
+            "sexe_ratio": "0%",
+            "age_moyen": "84",
+            "avq_physique": "5",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "4.24"
+          }
+        },
+        "0115": {
+          "0115KA0": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1 à 10",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "0115JA0": {
+            "nb_journees_total": "36",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "36",
+            "sexe_ratio": "0%",
+            "age_moyen": "78.92",
+            "avq_physique": "6.69",
+            "avq_relationnel": "3.89",
+            "nb_actes_csarr": "2.5"
+          },
+          "0115IA0": {
+            "nb_journees_total": "370",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "370",
+            "sexe_ratio": "26.5%",
+            "age_moyen": "80.68",
+            "avq_physique": "5.66",
+            "avq_relationnel": "4.12",
+            "nb_actes_csarr": "4.8"
+          }
+        },
+        "0127": {
+          "0127KA0": {
+            "nb_journees_total": "54",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "54",
+            "sexe_ratio": "48.1%",
+            "age_moyen": "79.91",
+            "avq_physique": "5.72",
+            "avq_relationnel": "3.35",
+            "nb_actes_csarr": "1.52"
+          },
+          "0127IA0": {
+            "nb_journees_total": "6528",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "6528",
+            "sexe_ratio": "46.3%",
+            "age_moyen": "79.88",
+            "avq_physique": "6.52",
+            "avq_relationnel": "3.72",
+            "nb_actes_csarr": "4.18"
+          },
+          "0127JA0": {
+            "nb_journees_total": "1226",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1226",
+            "sexe_ratio": "50.1%",
+            "age_moyen": "80.25",
+            "avq_physique": "6.03",
+            "avq_relationnel": "3.47",
+            "nb_actes_csarr": "2.61"
+          }
+        },
+        "0148": {
+          "0148IA0": {
+            "nb_journees_total": "49",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "49",
+            "sexe_ratio": "100%",
+            "age_moyen": "81.67",
+            "avq_physique": "6.04",
+            "avq_relationnel": "4.2",
+            "nb_actes_csarr": "6.8"
+          }
+        }
+      }
+    }
+  }
+}

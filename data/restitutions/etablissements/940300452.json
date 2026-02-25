@@ -1,0 +1,118 @@
+{
+  "finess": "940300452",
+  "raison_sociale": "CLINIQUE MEDICALE DE DIETETIQUE",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "94",
+    "dep_name": "VAL-DE-MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "10": {
+        "1006": {
+          "1006UB1": {
+            "nb_journees_total": "85",
+            "nb_journees_hc": "85",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "27.1%",
+            "age_moyen": "68.66",
+            "avq_physique": "8.76",
+            "avq_relationnel": "4.68",
+            "nb_actes_csarr": "1.32"
+          },
+          "1006UA1": {
+            "nb_journees_total": "122",
+            "nb_journees_hc": "122",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "13.1%",
+            "age_moyen": "51.52",
+            "avq_physique": "6.3",
+            "avq_relationnel": "3.47",
+            "nb_actes_csarr": "2.52"
+          },
+          "1006SB1": {
+            "nb_journees_total": "6319",
+            "nb_journees_hc": "6319",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "20.9%",
+            "age_moyen": "54.8",
+            "avq_physique": "7.72",
+            "avq_relationnel": "4.02",
+            "nb_actes_csarr": "3.15"
+          },
+          "1006UA2": {
+            "nb_journees_total": "18",
+            "nb_journees_hc": "18",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "38.56",
+            "avq_physique": "6.83",
+            "avq_relationnel": "5.78",
+            "nb_actes_csarr": "1.94"
+          },
+          "1006SA2": {
+            "nb_journees_total": "213",
+            "nb_journees_hc": "213",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "24.4%",
+            "age_moyen": "58.54",
+            "avq_physique": "6.69",
+            "avq_relationnel": "3.54",
+            "nb_actes_csarr": "3.46"
+          },
+          "1006TB2": {
+            "nb_journees_total": "48",
+            "nb_journees_hc": "48",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "74.29",
+            "avq_physique": "9.04",
+            "avq_relationnel": "4.52",
+            "nb_actes_csarr": "1.77"
+          },
+          "1006TB1": {
+            "nb_journees_total": "149",
+            "nb_journees_hc": "149",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "20.8%",
+            "age_moyen": "57.58",
+            "avq_physique": "8.38",
+            "avq_relationnel": "4.66",
+            "nb_actes_csarr": "2.24"
+          },
+          "1006SB2": {
+            "nb_journees_total": "258",
+            "nb_journees_hc": "258",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "12.8%",
+            "age_moyen": "58.64",
+            "avq_physique": "7.52",
+            "avq_relationnel": "4.02",
+            "nb_actes_csarr": "2.97"
+          },
+          "1006SA1": {
+            "nb_journees_total": "6662",
+            "nb_journees_hc": "6662",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "21.2%",
+            "age_moyen": "52.97",
+            "avq_physique": "6.56",
+            "avq_relationnel": "3.56",
+            "nb_actes_csarr": "3.41"
+          },
+          "1006UB2": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          }
+        }
+      }
+    }
+  }
+}

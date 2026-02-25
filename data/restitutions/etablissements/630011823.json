@@ -1,0 +1,58 @@
+{
+  "finess": "630011823",
+  "raison_sociale": "HDJ DE L'UGECAM",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "63",
+    "dep_name": "PUY-DE-DÔME"
+  },
+  "periodes": {
+    "2025-11": {
+      "10": {
+        "1006": {
+          "1006IA0": {
+            "nb_journees_total": "728",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "728",
+            "sexe_ratio": "17.6%",
+            "age_moyen": "52.88",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.97"
+          },
+          "1006HA0": {
+            "nb_journees_total": "166",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "166",
+            "sexe_ratio": "33.7%",
+            "age_moyen": "12.24",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.42"
+          },
+          "1006JA0": {
+            "nb_journees_total": "2409",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "2409",
+            "sexe_ratio": "20%",
+            "age_moyen": "51.85",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.32"
+          },
+          "1006KA0": {
+            "nb_journees_total": "304",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "304",
+            "sexe_ratio": "20.4%",
+            "age_moyen": "50.67",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.99"
+          }
+        }
+      }
+    }
+  }
+}

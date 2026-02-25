@@ -1,0 +1,52 @@
+{
+  "finess": "870000288",
+  "raison_sociale": "CLINIQUE FRANÇOIS CHENIEUX",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "87",
+    "dep_name": "HAUTE-VIENNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "04": {
+        "0406": {
+          "0406JA0": {
+            "nb_journees_total": "55",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "55",
+            "sexe_ratio": "50.9%",
+            "age_moyen": "64.55",
+            "avq_physique": "4.15",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.45"
+          },
+          "0406IA0": {
+            "nb_journees_total": "283",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "283",
+            "sexe_ratio": "48.4%",
+            "age_moyen": "64.66",
+            "avq_physique": "4.19",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.52"
+          }
+        }
+      },
+      "10": {
+        "1006": {
+          "1006JA0": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1 à 10",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          }
+        }
+      }
+    }
+  }
+}

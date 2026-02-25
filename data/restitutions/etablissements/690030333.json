@@ -1,0 +1,42 @@
+{
+  "finess": "690030333",
+  "raison_sociale": "FIDEV",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "03": {
+        "0306": {
+          "0306LA0": {
+            "nb_journees_total": "20",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "20",
+            "sexe_ratio": "0%",
+            "age_moyen": "86",
+            "avq_physique": "4",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "3.2"
+          }
+        }
+      },
+      "02": {
+        "0203": {
+          "0203LA0": {
+            "nb_journees_total": "8165",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "8165",
+            "sexe_ratio": "36.8%",
+            "age_moyen": "58.77",
+            "avq_physique": "7.15",
+            "avq_relationnel": "3.71",
+            "nb_actes_csarr": "3.67"
+          }
+        }
+      }
+    }
+  }
+}

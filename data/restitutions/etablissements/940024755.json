@@ -1,0 +1,38 @@
+{
+  "finess": "940024755",
+  "raison_sociale": "CLINIQUE DU CLOS SAINT MICHEL",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "94",
+    "dep_name": "VAL-DE-MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1903": {
+          "1903IA0": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1 à 10",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "1903JA0": {
+            "nb_journees_total": "13",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "13",
+            "sexe_ratio": "38.5%",
+            "age_moyen": "41.92",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.23"
+          }
+        }
+      }
+    }
+  }
+}

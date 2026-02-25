@@ -1,0 +1,118 @@
+{
+  "finess": "620033712",
+  "raison_sociale": "INSTITUT D'ADDICTOLOGIE DU LITTORAL",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "62",
+    "dep_name": "PAS-DE-CALAIS"
+  },
+  "periodes": {
+    "2025-11": {
+      "19": {
+        "1903": {
+          "1903SA2": {
+            "nb_journees_total": "1852",
+            "nb_journees_hc": "1852",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "95.5%",
+            "age_moyen": "45.23",
+            "avq_physique": "4.47",
+            "avq_relationnel": "4.11",
+            "nb_actes_csarr": "1.53"
+          },
+          "1903UA2": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "1903SB2": {
+            "nb_journees_total": "77",
+            "nb_journees_hc": "77",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "42.43",
+            "avq_physique": "4",
+            "avq_relationnel": "5.21",
+            "nb_actes_csarr": "2.51"
+          },
+          "1903UA1": {
+            "nb_journees_total": "128",
+            "nb_journees_hc": "128",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "70.3%",
+            "age_moyen": "40.51",
+            "avq_physique": "4.17",
+            "avq_relationnel": "4.48",
+            "nb_actes_csarr": "1.15"
+          },
+          "1903UB2": {
+            "nb_journees_total": "1079",
+            "nb_journees_hc": "1079",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "97.5%",
+            "age_moyen": "52.32",
+            "avq_physique": "7.12",
+            "avq_relationnel": "5.14",
+            "nb_actes_csarr": "0.37"
+          },
+          "1903IA0": {
+            "nb_journees_total": "1096",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1096",
+            "sexe_ratio": "83.3%",
+            "age_moyen": "45.29",
+            "avq_physique": "4.3",
+            "avq_relationnel": "3.43",
+            "nb_actes_csarr": "3.63"
+          },
+          "1903SA1": {
+            "nb_journees_total": "5604",
+            "nb_journees_hc": "5604",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "75.4%",
+            "age_moyen": "43.16",
+            "avq_physique": "4.25",
+            "avq_relationnel": "4.04",
+            "nb_actes_csarr": "2.05"
+          },
+          "1903UB1": {
+            "nb_journees_total": "52",
+            "nb_journees_hc": "52",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "62",
+            "avq_physique": "9.77",
+            "avq_relationnel": "4.88",
+            "nb_actes_csarr": "0.35"
+          },
+          "1903JA0": {
+            "nb_journees_total": "482",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "482",
+            "sexe_ratio": "81.5%",
+            "age_moyen": "45.2",
+            "avq_physique": "4.34",
+            "avq_relationnel": "3.25",
+            "nb_actes_csarr": "2.84"
+          },
+          "1903SB1": {
+            "nb_journees_total": "488",
+            "nb_journees_hc": "488",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "67.4%",
+            "age_moyen": "48.39",
+            "avq_physique": "6.17",
+            "avq_relationnel": "4.96",
+            "nb_actes_csarr": "1.53"
+          }
+        }
+      }
+    }
+  }
+}

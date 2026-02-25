@@ -1,0 +1,58 @@
+{
+  "site_updated_at": "2026-02-19",
+  "extracted_at": "2026-02-25 13:49:19",
+  "search_context": {
+    "annee": "2025",
+    "tgeo": "fe",
+    "codegeo": "99",
+    "SePP": "0",
+    "SeTailEt": "0",
+    "catmaj": "04",
+    "gn": "0409",
+    "gpmedeco": "0409PA2"
+  },
+  "data": [
+    {
+      "finess": "050000298",
+      "raison_sociale": "MAISON D'ENFANTS LA GUISANE",
+      "categorie": "Privé",
+      "periode": "M11",
+      "nb_journees_total": "1060",
+      "nb_journees_hc": "1060",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "68.6%",
+      "age_moyen": "15.8",
+      "avq_physique": "5.37",
+      "avq_relationnel": "3.01",
+      "nb_actes_csarr": "0.5"
+    },
+    {
+      "finess": "660780321",
+      "raison_sociale": "MECSS LA PERLE CERDANE",
+      "categorie": "PSPH/EBNL",
+      "periode": "M12",
+      "nb_journees_total": "78",
+      "nb_journees_hc": "78",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "14",
+      "avq_physique": "5",
+      "avq_relationnel": "3.46",
+      "nb_actes_csarr": "9.9"
+    },
+    {
+      "finess": "Total",
+      "raison_sociale": "Total",
+      "categorie": "Total",
+      "periode": "Total",
+      "nb_journees_total": "1138",
+      "nb_journees_hc": "1138",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "63.9%",
+      "age_moyen": "15.68",
+      "avq_physique": "5.34",
+      "avq_relationnel": "3.04",
+      "nb_actes_csarr": "1.15"
+    }
+  ]
+}
