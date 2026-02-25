@@ -1,0 +1,28 @@
+{
+  "finess": "540000585",
+  "raison_sociale": "MAISON DE CONVALESCENCE FLAVIGNY",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "54",
+    "dep_name": "MEURTHE-ET-MOSELLE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "87",
+            "nb_journees_hc": "87",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "52",
+            "avq_physique": "4.77",
+            "avq_relationnel": "3.38",
+            "nb_actes_csarr": "2.13"
+          }
+        }
+      }
+    }
+  }
+}

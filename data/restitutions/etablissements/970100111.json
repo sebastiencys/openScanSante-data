@@ -1,0 +1,38 @@
+{
+  "finess": "970100111",
+  "raison_sociale": "LES NOUVELLES EAUX VIVES",
+  "geo": {
+    "reg_code": "01",
+    "reg_name": "GUADELOUPE",
+    "dep_code": "971",
+    "dep_name": "GUADELOUPE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "50",
+            "nb_journees_hc": "50",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "49",
+            "avq_physique": "8",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "1.34"
+          },
+          "0106SA1": {
+            "nb_journees_total": "25",
+            "nb_journees_hc": "25",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "74",
+            "avq_physique": "8",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "1.6"
+          }
+        }
+      }
+    }
+  }
+}

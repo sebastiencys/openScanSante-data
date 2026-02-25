@@ -1,0 +1,38 @@
+{
+  "finess": "530000371",
+  "raison_sociale": "CH LAVAL",
+  "geo": {
+    "reg_code": "52",
+    "reg_name": "PAYS DE LA LOIRE",
+    "dep_code": "53",
+    "dep_name": "MAYENNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "74",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "74",
+            "sexe_ratio": "0%",
+            "age_moyen": "31.5",
+            "avq_physique": "6.19",
+            "avq_relationnel": "2.59",
+            "nb_actes_csarr": "3.2"
+          },
+          "0106SA1": {
+            "nb_journees_total": "66",
+            "nb_journees_hc": "66",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "48",
+            "avq_physique": "4",
+            "avq_relationnel": "2.41",
+            "nb_actes_csarr": "3.29"
+          }
+        }
+      }
+    }
+  }
+}

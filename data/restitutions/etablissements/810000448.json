@@ -1,0 +1,40 @@
+{
+  "finess": "810000448",
+  "raison_sociale": "POLYCLINIQUE SAINTE BARBE",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "81",
+    "dep_name": "TARN"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "259",
+            "nb_journees_hc": "259",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "51.03",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1.13"
+          }
+        },
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "13",
+            "nb_journees_hc": "13",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "61",
+            "avq_physique": "7",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "1.46"
+          }
+        }
+      }
+    }
+  }
+}

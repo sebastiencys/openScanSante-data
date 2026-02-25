@@ -1,0 +1,38 @@
+{
+  "finess": "570000794",
+  "raison_sociale": "CENTRE LADAPT MOSELLE DE THIONVILLE",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "57",
+    "dep_name": "MOSELLE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "96",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "96",
+            "sexe_ratio": "51%",
+            "age_moyen": "47.56",
+            "avq_physique": "8.57",
+            "avq_relationnel": "2.51",
+            "nb_actes_csarr": "3.4"
+          },
+          "0106SA2": {
+            "nb_journees_total": "177",
+            "nb_journees_hc": "177",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "37",
+            "avq_physique": "7.15",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "2.89"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "finess": "440059319",
+  "raison_sociale": "SSR LNA CONFLUENT",
+  "geo": {
+    "reg_code": "52",
+    "reg_name": "PAYS DE LA LOIRE",
+    "dep_code": "44",
+    "dep_name": "LOIRE-ATLANTIQUE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "87",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "87",
+            "sexe_ratio": "100%",
+            "age_moyen": "47.54",
+            "avq_physique": "4.1",
+            "avq_relationnel": "3.02",
+            "nb_actes_csarr": "3.37"
+          },
+          "0106SA1": {
+            "nb_journees_total": "133",
+            "nb_journees_hc": "133",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "88%",
+            "age_moyen": "48.65",
+            "avq_physique": "5.02",
+            "avq_relationnel": "4.01",
+            "nb_actes_csarr": "2.31"
+          }
+        }
+      }
+    }
+  }
+}

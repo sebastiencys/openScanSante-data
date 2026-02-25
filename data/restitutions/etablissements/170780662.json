@@ -1,0 +1,28 @@
+{
+  "finess": "170780662",
+  "raison_sociale": "CLINIQUE DE L'ATLANTIQUE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "17",
+    "dep_name": "CHARENTE-MARITIME"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1 à 10",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          }
+        }
+      }
+    }
+  }
+}

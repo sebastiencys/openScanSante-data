@@ -11,6 +11,16 @@
     "2025-12": {
       "01": {
         "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2141",
+            "nb_journees_hc": "2141",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "34%",
+            "age_moyen": "58.72",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.21"
+          },
           "0103SC1": {
             "nb_journees_total": "217",
             "nb_journees_hc": "217",
@@ -20,6 +30,38 @@
             "avq_physique": "16",
             "avq_relationnel": "8",
             "nb_actes_csarr": "0.16"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "475",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "475",
+            "sexe_ratio": "58.3%",
+            "age_moyen": "22.48",
+            "avq_physique": "9.24",
+            "avq_relationnel": "4.53",
+            "nb_actes_csarr": "2.38"
+          },
+          "0106SA2": {
+            "nb_journees_total": "156",
+            "nb_journees_hc": "156",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "30.37",
+            "avq_physique": "6.04",
+            "avq_relationnel": "3.54",
+            "nb_actes_csarr": "3.15"
+          },
+          "0106SA1": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
           }
         }
       }

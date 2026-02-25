@@ -1,0 +1,38 @@
+{
+  "finess": "750014128",
+  "raison_sociale": "CLINIQUE DES BUTTES CHAUMONT",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "75",
+    "dep_name": "PARIS"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "26",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "26",
+            "sexe_ratio": "0%",
+            "age_moyen": "65.04",
+            "avq_physique": "5.96",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "6.04"
+          },
+          "0106SA1": {
+            "nb_journees_total": "22",
+            "nb_journees_hc": "22",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "58",
+            "avq_physique": "7.45",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.32"
+          }
+        }
+      }
+    }
+  }
+}

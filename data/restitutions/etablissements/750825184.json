@@ -1,0 +1,28 @@
+{
+  "finess": "750825184",
+  "raison_sociale": "CRF LA CHATAIGNERAIE",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "75",
+    "dep_name": "PARIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "138",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "138",
+            "sexe_ratio": "0%",
+            "age_moyen": "55.06",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "5.46"
+          }
+        }
+      }
+    }
+  }
+}

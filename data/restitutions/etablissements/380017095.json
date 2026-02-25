@@ -1,0 +1,38 @@
+{
+  "finess": "380017095",
+  "raison_sociale": "CRF ST VINCENT DE PAUL",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "38",
+    "dep_name": "ISÈRE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "362",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "362",
+            "sexe_ratio": "94.5%",
+            "age_moyen": "39.51",
+            "avq_physique": "4.8",
+            "avq_relationnel": "2.19",
+            "nb_actes_csarr": "3.29"
+          },
+          "0106SA2": {
+            "nb_journees_total": "69",
+            "nb_journees_hc": "69",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "47",
+            "avq_physique": "4",
+            "avq_relationnel": "2.7",
+            "nb_actes_csarr": "2.41"
+          }
+        }
+      }
+    }
+  }
+}

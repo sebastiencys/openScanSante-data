@@ -1,0 +1,38 @@
+{
+  "finess": "740004148",
+  "raison_sociale": "CLINIQUE LE MONT VEYRIER",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "74",
+    "dep_name": "HAUTE-SAVOIE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "83",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "83",
+            "sexe_ratio": "97.6%",
+            "age_moyen": "51.14",
+            "avq_physique": "5.12",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.84"
+          },
+          "0106SA2": {
+            "nb_journees_total": "95",
+            "nb_journees_hc": "95",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "71",
+            "avq_physique": "4.64",
+            "avq_relationnel": "3.88",
+            "nb_actes_csarr": "2.6"
+          }
+        }
+      }
+    }
+  }
+}

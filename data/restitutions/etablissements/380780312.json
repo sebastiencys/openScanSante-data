@@ -1,0 +1,50 @@
+{
+  "finess": "380780312",
+  "raison_sociale": "CLINIQUE FSEF GRENOBLE LA TRONCHE",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "38",
+    "dep_name": "ISÈRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "972",
+            "nb_journees_hc": "972",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "27.72",
+            "avq_physique": "15.18",
+            "avq_relationnel": "7.39",
+            "nb_actes_csarr": "2.78"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1 à 10",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "0106SA1": {
+            "nb_journees_total": "134",
+            "nb_journees_hc": "134",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "14",
+            "avq_physique": "6.34",
+            "avq_relationnel": "2.87",
+            "nb_actes_csarr": "1.92"
+          }
+        }
+      }
+    }
+  }
+}

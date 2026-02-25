@@ -11,6 +11,16 @@
     "2025-11": {
       "01": {
         "0103": {
+          "0103SC2": {
+            "nb_journees_total": "605",
+            "nb_journees_hc": "605",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "57.95",
+            "avq_physique": "15.02",
+            "avq_relationnel": "6.78",
+            "nb_actes_csarr": "2.28"
+          },
           "0103SC1": {
             "nb_journees_total": "27",
             "nb_journees_hc": "27",

@@ -1,0 +1,38 @@
+{
+  "finess": "710780917",
+  "raison_sociale": "HÔPITAL PRIVÉ SAINTE MARIE",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "71",
+    "dep_name": "SAÔNE-ET-LOIRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "63",
+            "nb_journees_hc": "63",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "71",
+            "avq_physique": "4.44",
+            "avq_relationnel": "2.89",
+            "nb_actes_csarr": "2.27"
+          },
+          "0106SA1": {
+            "nb_journees_total": "22",
+            "nb_journees_hc": "22",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "84",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2"
+          }
+        }
+      }
+    }
+  }
+}

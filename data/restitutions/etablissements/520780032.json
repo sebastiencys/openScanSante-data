@@ -1,0 +1,28 @@
+{
+  "finess": "520780032",
+  "raison_sociale": "CH DE CHAUMONT",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "52",
+    "dep_name": "HAUTE-MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "73",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "73",
+            "sexe_ratio": "0%",
+            "age_moyen": "71.3",
+            "avq_physique": "4.47",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "5.62"
+          }
+        }
+      }
+    }
+  }
+}

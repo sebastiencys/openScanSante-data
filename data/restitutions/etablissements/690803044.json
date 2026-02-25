@@ -1,0 +1,28 @@
+{
+  "finess": "690803044",
+  "raison_sociale": "CLINIQUE IRIS - MARCY L'ETOILE",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "81",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "81",
+            "sexe_ratio": "95.1%",
+            "age_moyen": "69.9",
+            "avq_physique": "6.73",
+            "avq_relationnel": "2.79",
+            "nb_actes_csarr": "3.35"
+          }
+        }
+      }
+    }
+  }
+}

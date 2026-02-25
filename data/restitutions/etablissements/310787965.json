@@ -1,0 +1,28 @@
+{
+  "finess": "310787965",
+  "raison_sociale": "CENTRE DE RÉÉDUCATION DU MIRAIL",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "31",
+    "dep_name": "HAUTE-GARONNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "36",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "36",
+            "sexe_ratio": "52.8%",
+            "age_moyen": "27.22",
+            "avq_physique": "7.36",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.69"
+          }
+        }
+      }
+    }
+  }
+}

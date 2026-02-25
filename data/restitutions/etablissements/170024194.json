@@ -1,0 +1,28 @@
+{
+  "finess": "170024194",
+  "raison_sociale": "GROUPEMENT HOSPITALIER DE LA ROCHELLE-RE-AUNIS",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "17",
+    "dep_name": "CHARENTE-MARITIME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "56",
+            "nb_journees_hc": "56",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "42",
+            "avq_physique": "16",
+            "avq_relationnel": "7.75",
+            "nb_actes_csarr": "0.39"
+          }
+        }
+      }
+    }
+  }
+}

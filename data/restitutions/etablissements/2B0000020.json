@@ -1,0 +1,28 @@
+{
+  "finess": "2B0000020",
+  "raison_sociale": "CH BASTIA",
+  "geo": {
+    "reg_code": "94",
+    "reg_name": "CORSE",
+    "dep_code": "2B",
+    "dep_name": "HAUTE-CORSE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "84",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "84",
+            "sexe_ratio": "100%",
+            "age_moyen": "46.44",
+            "avq_physique": "5.85",
+            "avq_relationnel": "2.43",
+            "nb_actes_csarr": "3.42"
+          }
+        }
+      }
+    }
+  }
+}

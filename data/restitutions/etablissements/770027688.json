@@ -1,0 +1,28 @@
+{
+  "finess": "770027688",
+  "raison_sociale": "SSR LRS GHEF MEAUX",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "77",
+    "dep_name": "SEINE-ET-MARNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "720",
+            "nb_journees_hc": "720",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "49.9%",
+            "age_moyen": "41.26",
+            "avq_physique": "14.3",
+            "avq_relationnel": "6.13",
+            "nb_actes_csarr": "0.97"
+          }
+        }
+      }
+    }
+  }
+}

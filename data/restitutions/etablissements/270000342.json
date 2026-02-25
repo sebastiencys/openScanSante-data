@@ -1,0 +1,40 @@
+{
+  "finess": "270000342",
+  "raison_sociale": "INSTITUT MEDICAL SPECIALISE DE L'EURE",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "27",
+    "dep_name": "EURE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2088",
+            "nb_journees_hc": "2088",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "65.9%",
+            "age_moyen": "48.59",
+            "avq_physique": "15.8",
+            "avq_relationnel": "7.8",
+            "nb_actes_csarr": "1.3"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "12",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "12",
+            "sexe_ratio": "0%",
+            "age_moyen": "53",
+            "avq_physique": "7.17",
+            "avq_relationnel": "6",
+            "nb_actes_csarr": "3.58"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "570001057",
+  "raison_sociale": "HÔPITAL BELLE ISLE METZ",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "57",
+    "dep_name": "MOSELLE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "158",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "158",
+            "sexe_ratio": "0.6%",
+            "age_moyen": "39.56",
+            "avq_physique": "7.81",
+            "avq_relationnel": "2.18",
+            "nb_actes_csarr": "4.8"
+          }
+        }
+      }
+    }
+  }
+}

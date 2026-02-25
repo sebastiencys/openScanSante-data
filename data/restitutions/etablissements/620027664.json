@@ -11,6 +11,16 @@
     "2025-12": {
       "01": {
         "0103": {
+          "0103SC2": {
+            "nb_journees_total": "3552",
+            "nb_journees_hc": "3552",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "48.8%",
+            "age_moyen": "58.5",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.28"
+          },
           "0103SC1": {
             "nb_journees_total": "979",
             "nb_journees_hc": "979",
@@ -20,6 +30,18 @@
             "avq_physique": "16",
             "avq_relationnel": "8",
             "nb_actes_csarr": "0.38"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "38",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "38",
+            "sexe_ratio": "97.4%",
+            "age_moyen": "51.74",
+            "avq_physique": "4.13",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "5.5"
           }
         }
       }

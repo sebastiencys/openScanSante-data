@@ -1,0 +1,40 @@
+{
+  "finess": "080000250",
+  "raison_sociale": "CRF POUR ADULTES",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "08",
+    "dep_name": "ARDENNES"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "235",
+            "nb_journees_hc": "235",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "36.77",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.33"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "43",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "43",
+            "sexe_ratio": "2.3%",
+            "age_moyen": "52.02",
+            "avq_physique": "10.51",
+            "avq_relationnel": "2.51",
+            "nb_actes_csarr": "4.72"
+          }
+        }
+      }
+    }
+  }
+}

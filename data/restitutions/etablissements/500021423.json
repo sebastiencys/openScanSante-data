@@ -1,0 +1,48 @@
+{
+  "finess": "500021423",
+  "raison_sociale": "CRF LE NORMANDY II",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "50",
+    "dep_name": "MANCHE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1 à 10",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
+          "0106SA2": {
+            "nb_journees_total": "195",
+            "nb_journees_hc": "195",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "65.26",
+            "avq_physique": "4.66",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.54"
+          },
+          "0106SA1": {
+            "nb_journees_total": "48",
+            "nb_journees_hc": "48",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "51",
+            "avq_physique": "4.42",
+            "avq_relationnel": "2.42",
+            "nb_actes_csarr": "3.15"
+          }
+        }
+      }
+    }
+  }
+}

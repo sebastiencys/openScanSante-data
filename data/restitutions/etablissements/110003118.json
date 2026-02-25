@@ -1,0 +1,28 @@
+{
+  "finess": "110003118",
+  "raison_sociale": "CLINIQUE DU SUD",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "11",
+    "dep_name": "AUDE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "36",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "36",
+            "sexe_ratio": "100%",
+            "age_moyen": "76.53",
+            "avq_physique": "12",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "6.47"
+          }
+        }
+      }
+    }
+  }
+}

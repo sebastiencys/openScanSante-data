@@ -1,0 +1,38 @@
+{
+  "finess": "290000017",
+  "raison_sociale": "CHU BREST",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "29",
+    "dep_name": "FINISTÈRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "38",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "38",
+            "sexe_ratio": "7.9%",
+            "age_moyen": "52.03",
+            "avq_physique": "5.08",
+            "avq_relationnel": "2.03",
+            "nb_actes_csarr": "2.84"
+          },
+          "0106SA2": {
+            "nb_journees_total": "13",
+            "nb_journees_hc": "13",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "47",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.38"
+          }
+        }
+      }
+    }
+  }
+}

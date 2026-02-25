@@ -1,0 +1,28 @@
+{
+  "finess": "210780292",
+  "raison_sociale": "CLINIQUE SSR LES ROSIERS",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "21",
+    "dep_name": "CÔTE-D OR"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "19",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "19",
+            "sexe_ratio": "0%",
+            "age_moyen": "38",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.47"
+          }
+        }
+      }
+    }
+  }
+}

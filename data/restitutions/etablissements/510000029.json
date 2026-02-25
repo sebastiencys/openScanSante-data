@@ -1,0 +1,38 @@
+{
+  "finess": "510000029",
+  "raison_sociale": "CHR DE REIMS",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "51",
+    "dep_name": "MARNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "111",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "111",
+            "sexe_ratio": "66.7%",
+            "age_moyen": "25.14",
+            "avq_physique": "7.42",
+            "avq_relationnel": "2.14",
+            "nb_actes_csarr": "4.26"
+          },
+          "0106SA2": {
+            "nb_journees_total": "42",
+            "nb_journees_hc": "42",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "33.3%",
+            "age_moyen": "59.02",
+            "avq_physique": "5.62",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.93"
+          }
+        }
+      }
+    }
+  }
+}

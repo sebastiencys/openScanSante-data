@@ -1,0 +1,28 @@
+{
+  "finess": "690041132",
+  "raison_sociale": "MEDIPOLE HÔPITAL MUTUALISTE",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "53",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "53",
+            "sexe_ratio": "100%",
+            "age_moyen": "37.6",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.77"
+          }
+        }
+      }
+    }
+  }
+}

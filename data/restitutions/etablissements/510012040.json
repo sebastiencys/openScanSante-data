@@ -1,0 +1,28 @@
+{
+  "finess": "510012040",
+  "raison_sociale": "POLYCLINIQUE LES BLEUETS - REIMS",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "51",
+    "dep_name": "MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "88",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "88",
+            "sexe_ratio": "0%",
+            "age_moyen": "66.53",
+            "avq_physique": "6.09",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.26"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "740780135",
+  "raison_sociale": "CMR DU NOIRET-SANCELLEMOZ",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "74",
+    "dep_name": "HAUTE-SAVOIE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "96",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "96",
+            "sexe_ratio": "76%",
+            "age_moyen": "42.99",
+            "avq_physique": "7.49",
+            "avq_relationnel": "2.22",
+            "nb_actes_csarr": "3.83"
+          }
+        }
+      }
+    }
+  }
+}

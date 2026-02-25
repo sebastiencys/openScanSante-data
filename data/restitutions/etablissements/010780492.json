@@ -1,0 +1,38 @@
+{
+  "finess": "010780492",
+  "raison_sociale": "CRF ROMANS-FERRARI",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "01",
+    "dep_name": "AIN"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "446",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "446",
+            "sexe_ratio": "41.3%",
+            "age_moyen": "10.33",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.62"
+          },
+          "0106SA1": {
+            "nb_journees_total": "95",
+            "nb_journees_hc": "95",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "15",
+            "avq_physique": "5.83",
+            "avq_relationnel": "2.17",
+            "nb_actes_csarr": "7.64"
+          }
+        }
+      }
+    }
+  }
+}

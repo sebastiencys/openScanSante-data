@@ -1,0 +1,28 @@
+{
+  "finess": "880006325",
+  "raison_sociale": "HL VAL DU MADON",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "88",
+    "dep_name": "VOSGES"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA1": {
+            "nb_journees_total": "37",
+            "nb_journees_hc": "37",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "53.81",
+            "avq_physique": "5",
+            "avq_relationnel": "2.08",
+            "nb_actes_csarr": "2.08"
+          }
+        }
+      }
+    }
+  }
+}

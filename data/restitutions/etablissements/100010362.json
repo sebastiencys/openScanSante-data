@@ -1,0 +1,28 @@
+{
+  "finess": "100010362",
+  "raison_sociale": "GCS PATCS CRRF COS PASTEUR 1",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "10",
+    "dep_name": "AUBE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "74",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "74",
+            "sexe_ratio": "0%",
+            "age_moyen": "64.84",
+            "avq_physique": "9.78",
+            "avq_relationnel": "3.74",
+            "nb_actes_csarr": "2.26"
+          }
+        }
+      }
+    }
+  }
+}

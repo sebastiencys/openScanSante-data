@@ -1,0 +1,38 @@
+{
+  "finess": "680000973",
+  "raison_sociale": "CH DE COLMAR",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "68",
+    "dep_name": "HAUT-RHIN"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "192",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "192",
+            "sexe_ratio": "38%",
+            "age_moyen": "41.67",
+            "avq_physique": "4.04",
+            "avq_relationnel": "2.04",
+            "nb_actes_csarr": "1.69"
+          },
+          "0106SA2": {
+            "nb_journees_total": "37",
+            "nb_journees_hc": "37",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "57.84",
+            "avq_physique": "4.78",
+            "avq_relationnel": "2.78",
+            "nb_actes_csarr": "1.32"
+          }
+        }
+      }
+    }
+  }
+}

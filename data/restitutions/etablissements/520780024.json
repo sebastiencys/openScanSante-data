@@ -1,0 +1,38 @@
+{
+  "finess": "520780024",
+  "raison_sociale": "HL BOURBONNE",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "52",
+    "dep_name": "HAUTE-MARNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "37",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "37",
+            "sexe_ratio": "0%",
+            "age_moyen": "54.16",
+            "avq_physique": "4",
+            "avq_relationnel": "3.24",
+            "nb_actes_csarr": "2.08"
+          },
+          "0106SA2": {
+            "nb_journees_total": "29",
+            "nb_journees_hc": "29",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "56",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.31"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "finess": "830100616",
+  "raison_sociale": "CHIC TOULON",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "83",
+    "dep_name": "VAR"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "41",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "41",
+            "sexe_ratio": "97.6%",
+            "age_moyen": "33.61",
+            "avq_physique": "4",
+            "avq_relationnel": "3.95",
+            "nb_actes_csarr": "0.37"
+          },
+          "0106SA2": {
+            "nb_journees_total": "35",
+            "nb_journees_hc": "35",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "17",
+            "avq_physique": "4",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "0.2"
+          },
+          "0106SA1": {
+            "nb_journees_total": "11",
+            "nb_journees_hc": "11",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "48",
+            "avq_physique": "8",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "0.18"
+          }
+        }
+      }
+    }
+  }
+}

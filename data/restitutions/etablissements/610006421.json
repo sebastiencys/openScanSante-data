@@ -1,0 +1,28 @@
+{
+  "finess": "610006421",
+  "raison_sociale": "CLINIQUE D'ALENCON",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "61",
+    "dep_name": "ORNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "35",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "35",
+            "sexe_ratio": "100%",
+            "age_moyen": "77",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4"
+          }
+        }
+      }
+    }
+  }
+}

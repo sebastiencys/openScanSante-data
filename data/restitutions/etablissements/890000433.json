@@ -1,0 +1,38 @@
+{
+  "finess": "890000433",
+  "raison_sociale": "CH DU TONNERROIS",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "89",
+    "dep_name": "YONNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "23",
+            "nb_journees_hc": "23",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "55",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.35"
+          },
+          "0106SA1": {
+            "nb_journees_total": "21",
+            "nb_journees_hc": "21",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "74.38",
+            "avq_physique": "4.1",
+            "avq_relationnel": "5",
+            "nb_actes_csarr": "1.48"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "780420022",
+  "raison_sociale": "SSR LE CERRSY",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "78",
+    "dep_name": "YVELINES"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "109",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "109",
+            "sexe_ratio": "100%",
+            "age_moyen": "32.12",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "8.88"
+          }
+        }
+      }
+    }
+  }
+}

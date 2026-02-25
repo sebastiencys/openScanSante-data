@@ -1,0 +1,38 @@
+{
+  "finess": "590817441",
+  "raison_sociale": "ÉTABLISSEMENT HOPALE - CENTRE CLAIR SEJOUR",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "59",
+    "dep_name": "NORD"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "84",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "84",
+            "sexe_ratio": "66.7%",
+            "age_moyen": "42.82",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.21"
+          },
+          "0106SA1": {
+            "nb_journees_total": "11",
+            "nb_journees_hc": "11",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "31",
+            "avq_physique": "5.73",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.55"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "260017454",
+  "raison_sociale": "DIEULEFIT SANTÉ",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "26",
+    "dep_name": "DRÔME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "55",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "55",
+            "sexe_ratio": "80%",
+            "age_moyen": "60.38",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.73"
+          }
+        }
+      }
+    }
+  }
+}

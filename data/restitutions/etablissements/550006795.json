@@ -1,0 +1,40 @@
+{
+  "finess": "550006795",
+  "raison_sociale": "CH VERDUN-SUR-SAINT MIHIEL",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "55",
+    "dep_name": "MEUSE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1302",
+            "nb_journees_hc": "1302",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "62.2%",
+            "age_moyen": "47.27",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.41"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "32",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "32",
+            "sexe_ratio": "0%",
+            "age_moyen": "64",
+            "avq_physique": "6.63",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.91"
+          }
+        }
+      }
+    }
+  }
+}

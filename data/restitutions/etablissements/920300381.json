@@ -1,0 +1,28 @@
+{
+  "finess": "920300381",
+  "raison_sociale": "CLINALLIANCE FONTENAY AUX ROSES",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "92",
+    "dep_name": "HAUTS-DE-SEINE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "49",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "49",
+            "sexe_ratio": "0%",
+            "age_moyen": "79.55",
+            "avq_physique": "4.65",
+            "avq_relationnel": "2.02",
+            "nb_actes_csarr": "7.31"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "finess": "560023210",
+  "raison_sociale": "CH BRETAGNE ATLANTIQUE VANNES",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "56",
+    "dep_name": "MORBIHAN"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "137",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "137",
+            "sexe_ratio": "78.8%",
+            "age_moyen": "46.15",
+            "avq_physique": "4.19",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.03"
+          },
+          "0106SA2": {
+            "nb_journees_total": "79",
+            "nb_journees_hc": "79",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "34.97",
+            "avq_physique": "4.48",
+            "avq_relationnel": "2.66",
+            "nb_actes_csarr": "3.3"
+          },
+          "0106SA1": {
+            "nb_journees_total": "87",
+            "nb_journees_hc": "87",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "41.4%",
+            "age_moyen": "66.9",
+            "avq_physique": "4.23",
+            "avq_relationnel": "2.57",
+            "nb_actes_csarr": "2.18"
+          }
+        }
+      }
+    }
+  }
+}

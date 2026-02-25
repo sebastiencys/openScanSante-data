@@ -1,0 +1,38 @@
+{
+  "finess": "920711512",
+  "raison_sociale": "CLINIQUE L AMANDIER",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "92",
+    "dep_name": "HAUTS-DE-SEINE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "30",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "30",
+            "sexe_ratio": "0%",
+            "age_moyen": "61.07",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.13"
+          },
+          "0106SA1": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "17",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "56",
+            "avq_physique": "4.71",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.88"
+          }
+        }
+      }
+    }
+  }
+}

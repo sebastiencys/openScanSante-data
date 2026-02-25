@@ -1,0 +1,38 @@
+{
+  "finess": "330802778",
+  "raison_sociale": "CLINIQUE LES HAUTS DE CENON",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "33",
+    "dep_name": "GIRONDE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "648",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "648",
+            "sexe_ratio": "42.7%",
+            "age_moyen": "51.41",
+            "avq_physique": "5.53",
+            "avq_relationnel": "4.18",
+            "nb_actes_csarr": "3.69"
+          },
+          "0106SA1": {
+            "nb_journees_total": "74",
+            "nb_journees_hc": "74",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "68",
+            "avq_physique": "5.66",
+            "avq_relationnel": "2.19",
+            "nb_actes_csarr": "1.54"
+          }
+        }
+      }
+    }
+  }
+}

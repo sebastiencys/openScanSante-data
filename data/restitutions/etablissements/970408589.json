@@ -31,6 +31,18 @@
             "avq_relationnel": "NA",
             "nb_actes_csarr": "NA"
           }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "33",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "33",
+            "sexe_ratio": "100%",
+            "age_moyen": "57.82",
+            "avq_physique": "8.03",
+            "avq_relationnel": "2.27",
+            "nb_actes_csarr": "3.21"
+          }
         }
       }
     }

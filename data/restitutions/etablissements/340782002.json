@@ -1,0 +1,28 @@
+{
+  "finess": "340782002",
+  "raison_sociale": "CRF LA PETITE PAIX",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "34",
+    "dep_name": "HÉRAULT"
+  },
+  "periodes": {
+    "2025-10": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "17",
+            "sexe_ratio": "100%",
+            "age_moyen": "63",
+            "avq_physique": "7",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.71"
+          }
+        }
+      }
+    }
+  }
+}

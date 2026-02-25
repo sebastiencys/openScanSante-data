@@ -1,0 +1,28 @@
+{
+  "finess": "690030283",
+  "raison_sociale": "CLINIQUE LES LILAS BLEUS",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "26",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "26",
+            "sexe_ratio": "0%",
+            "age_moyen": "78",
+            "avq_physique": "8.46",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.31"
+          }
+        }
+      }
+    }
+  }
+}

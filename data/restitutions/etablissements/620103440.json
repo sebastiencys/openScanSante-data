@@ -1,0 +1,28 @@
+{
+  "finess": "620103440",
+  "raison_sociale": "CH DE BOULOGNE",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "62",
+    "dep_name": "PAS-DE-CALAIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "21",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "21",
+            "sexe_ratio": "4.8%",
+            "age_moyen": "47.24",
+            "avq_physique": "6.95",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.57"
+          }
+        }
+      }
+    }
+  }
+}

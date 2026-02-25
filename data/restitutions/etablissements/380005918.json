@@ -1,0 +1,40 @@
+{
+  "finess": "380005918",
+  "raison_sociale": "CLINIQUE LES GRANGES",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "38",
+    "dep_name": "ISÈRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "494",
+            "nb_journees_hc": "494",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "55.41",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1.77"
+          }
+        },
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "54",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "54",
+            "sexe_ratio": "74.1%",
+            "age_moyen": "70.33",
+            "avq_physique": "9.52",
+            "avq_relationnel": "2.78",
+            "nb_actes_csarr": "3.22"
+          }
+        }
+      }
+    }
+  }
+}

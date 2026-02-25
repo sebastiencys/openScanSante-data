@@ -1,0 +1,28 @@
+{
+  "finess": "730000015",
+  "raison_sociale": "CH METROPOLE SAVOIE",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "73",
+    "dep_name": "SAVOIE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "35",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "35",
+            "sexe_ratio": "97.1%",
+            "age_moyen": "38.23",
+            "avq_physique": "6.29",
+            "avq_relationnel": "4.17",
+            "nb_actes_csarr": "4.14"
+          }
+        }
+      }
+    }
+  }
+}
