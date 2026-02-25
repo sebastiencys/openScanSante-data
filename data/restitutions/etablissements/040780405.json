@@ -1,0 +1,28 @@
+{
+  "finess": "040780405",
+  "raison_sociale": "CENTRE DES CARMES",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "04",
+    "dep_name": "ALPES-DE-HAUTE-PROVENCE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "104",
+            "nb_journees_hc": "104",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "67.2",
+            "avq_physique": "10.47",
+            "avq_relationnel": "2.58",
+            "nb_actes_csarr": "2.78"
+          }
+        }
+      }
+    }
+  }
+}

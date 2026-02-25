@@ -1,0 +1,28 @@
+{
+  "finess": "270000110",
+  "raison_sociale": "CH VERNEUIL SUR AVRE",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "27",
+    "dep_name": "EURE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "29",
+            "nb_journees_hc": "29",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "78",
+            "avq_physique": "10",
+            "avq_relationnel": "2.76",
+            "nb_actes_csarr": "2.86"
+          }
+        }
+      }
+    }
+  }
+}

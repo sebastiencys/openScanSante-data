@@ -1,0 +1,28 @@
+{
+  "finess": "950300152",
+  "raison_sociale": "CLINIQUE MIRABEAU",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "95",
+    "dep_name": "VAL-D OISE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "63",
+            "nb_journees_hc": "63",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "44",
+            "avq_physique": "9.11",
+            "avq_relationnel": "5",
+            "nb_actes_csarr": "2.1"
+          }
+        }
+      }
+    }
+  }
+}

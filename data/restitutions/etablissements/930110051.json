@@ -1,0 +1,28 @@
+{
+  "finess": "930110051",
+  "raison_sociale": "CH DE ST DENIS",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "93",
+    "dep_name": "SEINE-SAINT-DENIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "87",
+            "nb_journees_hc": "87",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "47",
+            "avq_physique": "9.18",
+            "avq_relationnel": "2.94",
+            "nb_actes_csarr": "2.55"
+          }
+        }
+      }
+    }
+  }
+}

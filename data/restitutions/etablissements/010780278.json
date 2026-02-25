@@ -33,6 +33,16 @@
           }
         },
         "0106": {
+          "0106SB2": {
+            "nb_journees_total": "33",
+            "nb_journees_hc": "33",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "56",
+            "avq_physique": "9.82",
+            "avq_relationnel": "4.55",
+            "nb_actes_csarr": "3.03"
+          },
           "0106SA1": {
             "nb_journees_total": "28",
             "nb_journees_hc": "28",

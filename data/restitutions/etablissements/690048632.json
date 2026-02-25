@@ -1,0 +1,28 @@
+{
+  "finess": "690048632",
+  "raison_sociale": "CH DES MONTS DU LYONNAIS",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB1": {
+            "nb_journees_total": "37",
+            "nb_journees_hc": "37",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "64",
+            "avq_physique": "5.86",
+            "avq_relationnel": "7.81",
+            "nb_actes_csarr": "2.43"
+          }
+        }
+      }
+    }
+  }
+}

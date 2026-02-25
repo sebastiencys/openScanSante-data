@@ -1,0 +1,28 @@
+{
+  "finess": "130782444",
+  "raison_sociale": "CLINIQUE DE SOINS DE SUITE CHATEAU FLORANS",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "13",
+    "dep_name": "BOUCHES-DU-RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "27",
+            "nb_journees_hc": "27",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "68",
+            "avq_physique": "10",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "3.48"
+          }
+        }
+      }
+    }
+  }
+}

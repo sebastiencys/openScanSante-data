@@ -1,0 +1,28 @@
+{
+  "finess": "910300235",
+  "raison_sociale": "CLINIQUE KORIAN LA MARETTE INICEA",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "91",
+    "dep_name": "ESSONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SB1": {
+            "nb_journees_total": "19",
+            "nb_journees_hc": "19",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "63",
+            "avq_physique": "8.26",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "2.11"
+          }
+        }
+      }
+    }
+  }
+}

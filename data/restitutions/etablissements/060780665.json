@@ -1,0 +1,28 @@
+{
+  "finess": "060780665",
+  "raison_sociale": "CLINIQUE LE MERIDIEN",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "06",
+    "dep_name": "ALPES-MARITIMES"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB1": {
+            "nb_journees_total": "19",
+            "nb_journees_hc": "19",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "56",
+            "avq_physique": "10.47",
+            "avq_relationnel": "3.05",
+            "nb_actes_csarr": "2.63"
+          }
+        }
+      }
+    }
+  }
+}

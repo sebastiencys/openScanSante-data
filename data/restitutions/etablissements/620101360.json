@@ -1,0 +1,28 @@
+{
+  "finess": "620101360",
+  "raison_sociale": "CH REGION DE SAINT-OMER - SITE D'HELFAUT",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "62",
+    "dep_name": "PAS-DE-CALAIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "25",
+            "nb_journees_hc": "25",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "53",
+            "avq_physique": "8.52",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "5.2"
+          }
+        }
+      }
+    }
+  }
+}

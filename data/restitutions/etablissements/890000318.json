@@ -1,0 +1,28 @@
+{
+  "finess": "890000318",
+  "raison_sociale": "ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "89",
+    "dep_name": "YONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "78",
+            "nb_journees_hc": "78",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "74",
+            "avq_physique": "9.01",
+            "avq_relationnel": "3.91",
+            "nb_actes_csarr": "2.06"
+          }
+        }
+      }
+    }
+  }
+}

@@ -30,6 +30,26 @@
             "avq_physique": "4.4",
             "avq_relationnel": "2.43",
             "nb_actes_csarr": "4.34"
+          },
+          "0106SB1": {
+            "nb_journees_total": "68",
+            "nb_journees_hc": "68",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "69.44",
+            "avq_physique": "8.15",
+            "avq_relationnel": "6.06",
+            "nb_actes_csarr": "4.04"
+          },
+          "0106SB2": {
+            "nb_journees_total": "89",
+            "nb_journees_hc": "89",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "55",
+            "avq_physique": "4",
+            "avq_relationnel": "3.54",
+            "nb_actes_csarr": "3.58"
           }
         }
       }

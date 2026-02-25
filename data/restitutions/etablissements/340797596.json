@@ -1,0 +1,28 @@
+{
+  "finess": "340797596",
+  "raison_sociale": "CENTRE DU MELEZET",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "34",
+    "dep_name": "HÉRAULT"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SB1": {
+            "nb_journees_total": "42",
+            "nb_journees_hc": "42",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "90",
+            "avq_physique": "10.9",
+            "avq_relationnel": "2.5",
+            "nb_actes_csarr": "2.98"
+          }
+        }
+      }
+    }
+  }
+}

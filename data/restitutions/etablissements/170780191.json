@@ -1,0 +1,28 @@
+{
+  "finess": "170780191",
+  "raison_sociale": "CH ROYAN-ATLANTIQUE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "17",
+    "dep_name": "CHARENTE-MARITIME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB1": {
+            "nb_journees_total": "20",
+            "nb_journees_hc": "20",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "63",
+            "avq_physique": "10",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "3.65"
+          }
+        }
+      }
+    }
+  }
+}

@@ -31,6 +31,18 @@
             "avq_relationnel": "8",
             "nb_actes_csarr": "0.5"
           }
+        },
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "19",
+            "nb_journees_hc": "19",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "87",
+            "avq_physique": "8.68",
+            "avq_relationnel": "2.11",
+            "nb_actes_csarr": "3.42"
+          }
         }
       }
     }

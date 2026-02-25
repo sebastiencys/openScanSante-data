@@ -1,0 +1,28 @@
+{
+  "finess": "140015975",
+  "raison_sociale": "CLINIQUE SMR THALATTA",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "14",
+    "dep_name": "CALVADOS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "165",
+            "nb_journees_hc": "165",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "85",
+            "avq_physique": "8.85",
+            "avq_relationnel": "2.76",
+            "nb_actes_csarr": "2.28"
+          }
+        }
+      }
+    }
+  }
+}

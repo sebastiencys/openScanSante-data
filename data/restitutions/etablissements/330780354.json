@@ -1,0 +1,28 @@
+{
+  "finess": "330780354",
+  "raison_sociale": "POLYCLINIQUE BORDEAUX CAUDERAN",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "33",
+    "dep_name": "GIRONDE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "17",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "77",
+            "avq_physique": "8",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "2.12"
+          }
+        }
+      }
+    }
+  }
+}

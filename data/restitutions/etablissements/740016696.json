@@ -1,0 +1,28 @@
+{
+  "finess": "740016696",
+  "raison_sociale": "SSR LA MARTERAYE SITE SEYNOD",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "74",
+    "dep_name": "HAUTE-SAVOIE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SB2": {
+            "nb_journees_total": "40",
+            "nb_journees_hc": "40",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "69.9",
+            "avq_physique": "7.08",
+            "avq_relationnel": "3.5",
+            "nb_actes_csarr": "1.95"
+          }
+        }
+      }
+    }
+  }
+}
