@@ -1,0 +1,28 @@
+{
+  "finess": "370000481",
+  "raison_sociale": "CHU DE TOURS",
+  "geo": {
+    "reg_code": "24",
+    "reg_name": "CENTRE-VAL DE LOIRE",
+    "dep_code": "37",
+    "dep_name": "INDRE-ET-LOIRE"
+  },
+  "periodes": {
+    "2025-10": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "17",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "4",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.59"
+          }
+        }
+      }
+    }
+  }
+}

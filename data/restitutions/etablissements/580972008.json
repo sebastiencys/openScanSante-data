@@ -1,0 +1,28 @@
+{
+  "finess": "580972008",
+  "raison_sociale": "CRF PASORI - COSNE",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "58",
+    "dep_name": "NIÈVRE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1033",
+            "nb_journees_hc": "1033",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "67.6%",
+            "age_moyen": "44.34",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.18"
+          }
+        }
+      }
+    }
+  }
+}

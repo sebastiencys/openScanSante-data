@@ -1,0 +1,28 @@
+{
+  "finess": "350005179",
+  "raison_sociale": "CHRU DE RENNES",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "35",
+    "dep_name": "ILLE-ET-VILAINE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "279",
+            "nb_journees_hc": "279",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "34.7",
+            "avq_physique": "13.74",
+            "avq_relationnel": "5.79",
+            "nb_actes_csarr": "2.36"
+          }
+        }
+      }
+    }
+  }
+}

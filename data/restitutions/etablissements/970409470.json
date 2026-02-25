@@ -1,0 +1,38 @@
+{
+  "finess": "970409470",
+  "raison_sociale": "LE VETYVER - SSR",
+  "geo": {
+    "reg_code": "04",
+    "reg_name": "LA RÉUNION",
+    "dep_code": "974",
+    "dep_name": "LA RÉUNION"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2670",
+            "nb_journees_hc": "2670",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "60.1%",
+            "age_moyen": "54.69",
+            "avq_physique": "15.92",
+            "avq_relationnel": "7.82",
+            "nb_actes_csarr": "1.53"
+          },
+          "0103SC1": {
+            "nb_journees_total": "336",
+            "nb_journees_hc": "336",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "57.75",
+            "avq_physique": "15.15",
+            "avq_relationnel": "7.25",
+            "nb_actes_csarr": "1.53"
+          }
+        }
+      }
+    }
+  }
+}

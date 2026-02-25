@@ -1,0 +1,28 @@
+{
+  "finess": "590782611",
+  "raison_sociale": "SSR PEDIATRIQUE MARC SAUTELET",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "59",
+    "dep_name": "NORD"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "127",
+            "nb_journees_hc": "127",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "6",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.13"
+          }
+        }
+      }
+    }
+  }
+}

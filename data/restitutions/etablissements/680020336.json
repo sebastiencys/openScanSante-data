@@ -1,0 +1,38 @@
+{
+  "finess": "680020336",
+  "raison_sociale": "GRPE HOSP REGION MULHOUSE ET SUD ALSACE",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "68",
+    "dep_name": "HAUT-RHIN"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1212",
+            "nb_journees_hc": "1212",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "55.4%",
+            "age_moyen": "34.7",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.2"
+          },
+          "0103SC1": {
+            "nb_journees_total": "464",
+            "nb_journees_hc": "464",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "72.4%",
+            "age_moyen": "53.03",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.2"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "940016819",
+  "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "94",
+    "dep_name": "VAL-DE-MARNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "65",
+            "nb_journees_hc": "65",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "12.65",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "6.08"
+          }
+        }
+      }
+    }
+  }
+}

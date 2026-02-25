@@ -1,0 +1,28 @@
+{
+  "finess": "950110080",
+  "raison_sociale": "HÔPITAL NOVO",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "95",
+    "dep_name": "VAL-D OISE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "3987",
+            "nb_journees_hc": "3987",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "71.8%",
+            "age_moyen": "44.47",
+            "avq_physique": "15.85",
+            "avq_relationnel": "7.68",
+            "nb_actes_csarr": "0.54"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "690781810",
+  "raison_sociale": "HOSPICES CIVILS DE LYON",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "661",
+            "nb_journees_hc": "661",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "65.4%",
+            "age_moyen": "47.57",
+            "avq_physique": "14.6",
+            "avq_relationnel": "6.39",
+            "nb_actes_csarr": "1.32"
+          }
+        }
+      }
+    }
+  }
+}

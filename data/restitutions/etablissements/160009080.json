@@ -1,0 +1,28 @@
+{
+  "finess": "160009080",
+  "raison_sociale": "GCS S.R. LES GLAMOTS - ROULLET ST E.",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "16",
+    "dep_name": "CHARENTE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1650",
+            "nb_journees_hc": "1650",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "65.8%",
+            "age_moyen": "51.03",
+            "avq_physique": "16",
+            "avq_relationnel": "7.49",
+            "nb_actes_csarr": "1.49"
+          }
+        }
+      }
+    }
+  }
+}

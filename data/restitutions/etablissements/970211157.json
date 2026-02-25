@@ -1,0 +1,38 @@
+{
+  "finess": "970211157",
+  "raison_sociale": "CH NORD CARAIBE",
+  "geo": {
+    "reg_code": "02",
+    "reg_name": "MARTINIQUE",
+    "dep_code": "972",
+    "dep_name": "MARTINIQUE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1746",
+            "nb_journees_hc": "1746",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "41.1%",
+            "age_moyen": "44.12",
+            "avq_physique": "15.58",
+            "avq_relationnel": "7.54",
+            "nb_actes_csarr": "2.43"
+          },
+          "0103SC1": {
+            "nb_journees_total": "16",
+            "nb_journees_hc": "16",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "46",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1.63"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "finess": "750712184",
+  "raison_sociale": "AP-HP",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "75",
+    "dep_name": "PARIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "27783",
+            "nb_journees_hc": "27783",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "63.5%",
+            "age_moyen": "32.18",
+            "avq_physique": "15.7",
+            "avq_relationnel": "7.72",
+            "nb_actes_csarr": "0.96"
+          },
+          "0103SC1": {
+            "nb_journees_total": "4619",
+            "nb_journees_hc": "4619",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "55.6%",
+            "age_moyen": "23.9",
+            "avq_physique": "14.23",
+            "avq_relationnel": "7.28",
+            "nb_actes_csarr": "0.83"
+          }
+        }
+      }
+    }
+  }
+}

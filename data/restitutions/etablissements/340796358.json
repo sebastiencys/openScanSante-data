@@ -1,0 +1,28 @@
+{
+  "finess": "340796358",
+  "raison_sociale": "CENTRE PAUL COSTE FLORET",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "34",
+    "dep_name": "HÉRAULT"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2874",
+            "nb_journees_hc": "2874",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "49.4%",
+            "age_moyen": "48.19",
+            "avq_physique": "15.93",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.27"
+          }
+        }
+      }
+    }
+  }
+}

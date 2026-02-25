@@ -1,0 +1,38 @@
+{
+  "finess": "920005238",
+  "raison_sociale": "CLINIQUE DU PONT DE SEVRES",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "92",
+    "dep_name": "HAUTS-DE-SEINE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2411",
+            "nb_journees_hc": "2411",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "27.9%",
+            "age_moyen": "50.8",
+            "avq_physique": "15.87",
+            "avq_relationnel": "7.53",
+            "nb_actes_csarr": "0.45"
+          },
+          "0103SC1": {
+            "nb_journees_total": "336",
+            "nb_journees_hc": "336",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "61.38",
+            "avq_physique": "14.35",
+            "avq_relationnel": "6.38",
+            "nb_actes_csarr": "0.57"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "finess": "220000079",
+  "raison_sociale": "CH GUINGAMP",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "22",
+    "dep_name": "CÔTES-D ARMOR"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "17",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "72",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1"
+          },
+          "0103SC1": {
+            "nb_journees_total": "93",
+            "nb_journees_hc": "93",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "66",
+            "avq_physique": "15.85",
+            "avq_relationnel": "7.7",
+            "nb_actes_csarr": "1.68"
+          }
+        }
+      }
+    }
+  }
+}

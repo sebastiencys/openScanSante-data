@@ -1,0 +1,38 @@
+{
+  "finess": "690000401",
+  "raison_sociale": "CENTRE MÉDICAL DE L'ARGENTIERE",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2556",
+            "nb_journees_hc": "2556",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "60.4%",
+            "age_moyen": "48.19",
+            "avq_physique": "16",
+            "avq_relationnel": "7.9",
+            "nb_actes_csarr": "0.79"
+          },
+          "0103SC1": {
+            "nb_journees_total": "32",
+            "nb_journees_hc": "32",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "46.38",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.81"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "940300163",
+  "raison_sociale": "CLINIQUE LES TOURNELLES",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "94",
+    "dep_name": "VAL-DE-MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "3020",
+            "nb_journees_hc": "3020",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "33.4%",
+            "age_moyen": "70.68",
+            "avq_physique": "15.88",
+            "avq_relationnel": "7.52",
+            "nb_actes_csarr": "0.71"
+          }
+        }
+      }
+    }
+  }
+}

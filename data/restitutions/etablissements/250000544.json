@@ -1,0 +1,38 @@
+{
+  "finess": "250000544",
+  "raison_sociale": "CRRF LES SALINS DE BREGILLE",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "25",
+    "dep_name": "DOUBS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1285",
+            "nb_journees_hc": "1285",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "27.5%",
+            "age_moyen": "44.62",
+            "avq_physique": "15.52",
+            "avq_relationnel": "7.69",
+            "nb_actes_csarr": "1.45"
+          },
+          "0103SC1": {
+            "nb_journees_total": "364",
+            "nb_journees_hc": "364",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "50.37",
+            "avq_physique": "16",
+            "avq_relationnel": "7",
+            "nb_actes_csarr": "0.96"
+          }
+        }
+      }
+    }
+  }
+}

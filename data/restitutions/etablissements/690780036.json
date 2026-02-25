@@ -1,0 +1,28 @@
+{
+  "finess": "690780036",
+  "raison_sociale": "CH GIVORS",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "364",
+            "nb_journees_hc": "364",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "39.88",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.16"
+          }
+        }
+      }
+    }
+  }
+}

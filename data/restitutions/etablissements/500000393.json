@@ -1,0 +1,38 @@
+{
+  "finess": "500000393",
+  "raison_sociale": "CH COUTANCES",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "50",
+    "dep_name": "MANCHE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "1017",
+            "nb_journees_hc": "1017",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "64.3%",
+            "age_moyen": "45.83",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.15"
+          },
+          "0103SC1": {
+            "nb_journees_total": "363",
+            "nb_journees_hc": "363",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "41.1",
+            "avq_physique": "16",
+            "avq_relationnel": "7",
+            "nb_actes_csarr": "0.15"
+          }
+        }
+      }
+    }
+  }
+}

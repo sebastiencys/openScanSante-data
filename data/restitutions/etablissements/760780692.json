@@ -1,0 +1,28 @@
+{
+  "finess": "760780692",
+  "raison_sociale": "CMPR LES HERBIERS",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "76",
+    "dep_name": "SEINE-MARITIME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "126",
+            "nb_journees_hc": "126",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "40",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1.2"
+          }
+        }
+      }
+    }
+  }
+}

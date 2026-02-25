@@ -1,0 +1,28 @@
+{
+  "finess": "590784245",
+  "raison_sociale": "CH ZUYDCOOTE",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "59",
+    "dep_name": "NORD"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "726",
+            "nb_journees_hc": "726",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "50.21",
+            "avq_physique": "14.96",
+            "avq_relationnel": "7.23",
+            "nb_actes_csarr": "2.01"
+          }
+        }
+      }
+    }
+  }
+}

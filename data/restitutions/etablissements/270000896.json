@@ -1,0 +1,38 @@
+{
+  "finess": "270000896",
+  "raison_sociale": "LADAPT EURE",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "27",
+    "dep_name": "EURE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2934",
+            "nb_journees_hc": "2934",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "66.3%",
+            "age_moyen": "46.62",
+            "avq_physique": "15.92",
+            "avq_relationnel": "7.63",
+            "nb_actes_csarr": "1.08"
+          },
+          "0103SC1": {
+            "nb_journees_total": "364",
+            "nb_journees_hc": "364",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "43.92",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1.03"
+          }
+        }
+      }
+    }
+  }
+}

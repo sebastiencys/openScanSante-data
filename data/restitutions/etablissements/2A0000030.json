@@ -1,0 +1,28 @@
+{
+  "finess": "2A0000030",
+  "raison_sociale": "CRF ET MAISON REPOS FINOSELLO",
+  "geo": {
+    "reg_code": "94",
+    "reg_name": "CORSE",
+    "dep_code": "2A",
+    "dep_name": "CORSE-DU-SUD"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "98",
+            "nb_journees_hc": "98",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "35",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.76"
+          }
+        }
+      }
+    }
+  }
+}

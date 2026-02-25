@@ -1,0 +1,38 @@
+{
+  "finess": "720000389",
+  "raison_sociale": "CENTRE MÉDICAL GEORGES COULON",
+  "geo": {
+    "reg_code": "52",
+    "reg_name": "PAYS DE LA LOIRE",
+    "dep_code": "72",
+    "dep_name": "SARTHE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC2": {
+            "nb_journees_total": "2173",
+            "nb_journees_hc": "2173",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "49.7%",
+            "age_moyen": "58.75",
+            "avq_physique": "16",
+            "avq_relationnel": "7.94",
+            "nb_actes_csarr": "0.26"
+          },
+          "0103SC1": {
+            "nb_journees_total": "1042",
+            "nb_journees_hc": "1042",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "58.4%",
+            "age_moyen": "51.01",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.44"
+          }
+        }
+      }
+    }
+  }
+}
