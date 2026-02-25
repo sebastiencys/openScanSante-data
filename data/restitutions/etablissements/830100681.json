@@ -1,0 +1,48 @@
+{
+  "finess": "830100681",
+  "raison_sociale": "CENTRE SSR MGEN PIERRE CHEVALIER",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "83",
+    "dep_name": "VAR"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "101",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "101",
+            "sexe_ratio": "53.5%",
+            "age_moyen": "62.74",
+            "avq_physique": "5",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "5.92"
+          },
+          "0106SA2": {
+            "nb_journees_total": "138",
+            "nb_journees_hc": "138",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "71%",
+            "age_moyen": "73.03",
+            "avq_physique": "4.19",
+            "avq_relationnel": "2.33",
+            "nb_actes_csarr": "4.99"
+          },
+          "0106SA1": {
+            "nb_journees_total": "60",
+            "nb_journees_hc": "60",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "47.4",
+            "avq_physique": "4",
+            "avq_relationnel": "2.53",
+            "nb_actes_csarr": "7.63"
+          }
+        }
+      }
+    }
+  }
+}

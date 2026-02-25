@@ -1,0 +1,28 @@
+{
+  "finess": "210012175",
+  "raison_sociale": "HOSPICES CIVILS DE BEAUNE",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "21",
+    "dep_name": "CÔTE-D OR"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "25",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "25",
+            "sexe_ratio": "100%",
+            "age_moyen": "45",
+            "avq_physique": "5.2",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "5.52"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "630783348",
+  "raison_sociale": "CMPR MAURICE GANTCHOULA",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "63",
+    "dep_name": "PUY-DE-DÔME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "62",
+            "avq_physique": "6.25",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.86"
+          }
+        }
+      }
+    }
+  }
+}

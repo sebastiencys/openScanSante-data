@@ -1,0 +1,28 @@
+{
+  "finess": "290000827",
+  "raison_sociale": "CHM DE ROSCOFF SITE DE TY-YANN",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "29",
+    "dep_name": "FINISTÈRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "318",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "318",
+            "sexe_ratio": "37.7%",
+            "age_moyen": "32.08",
+            "avq_physique": "6.98",
+            "avq_relationnel": "2.73",
+            "nb_actes_csarr": "3.18"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "finess": "760780726",
+  "raison_sociale": "GROUPEMENT HOSPITALIER DU HAVRE",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "76",
+    "dep_name": "SEINE-MARITIME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "74",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "74",
+            "sexe_ratio": "94.6%",
+            "age_moyen": "47.49",
+            "avq_physique": "4.49",
+            "avq_relationnel": "2.09",
+            "nb_actes_csarr": "3.38"
+          },
+          "0106SA2": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          }
+        }
+      }
+    }
+  }
+}

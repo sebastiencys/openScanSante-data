@@ -1,0 +1,28 @@
+{
+  "finess": "970103016",
+  "raison_sociale": "CENTRE MÉDICAL RENEE LACROSSE",
+  "geo": {
+    "reg_code": "01",
+    "reg_name": "GUADELOUPE",
+    "dep_code": "971",
+    "dep_name": "GUADELOUPE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "14",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "14",
+            "sexe_ratio": "100%",
+            "age_moyen": "81",
+            "avq_physique": "7.86",
+            "avq_relationnel": "3.71",
+            "nb_actes_csarr": "3.93"
+          }
+        }
+      }
+    }
+  }
+}

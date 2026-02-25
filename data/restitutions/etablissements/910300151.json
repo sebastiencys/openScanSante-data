@@ -1,0 +1,38 @@
+{
+  "finess": "910300151",
+  "raison_sociale": "CENTRE DE RÉÉDUCATION L'OBSERVATOIRE - INICEA",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "91",
+    "dep_name": "ESSONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "88",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "88",
+            "sexe_ratio": "100%",
+            "age_moyen": "30",
+            "avq_physique": "4",
+            "avq_relationnel": "2.17",
+            "nb_actes_csarr": "4.89"
+          },
+          "0106SA2": {
+            "nb_journees_total": "43",
+            "nb_journees_hc": "43",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "30",
+            "avq_physique": "6.09",
+            "avq_relationnel": "3.12",
+            "nb_actes_csarr": "1.33"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "finess": "130786932",
+  "raison_sociale": "CENTRE DE RÉÉDUCATION PAUL CEZANNE",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "13",
+    "dep_name": "BOUCHES-DU-RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "233",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "233",
+            "sexe_ratio": "30.5%",
+            "age_moyen": "51.91",
+            "avq_physique": "6.3",
+            "avq_relationnel": "2.66",
+            "nb_actes_csarr": "4.43"
+          },
+          "0106SA2": {
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "59",
+            "avq_physique": "7.5",
+            "avq_relationnel": "4.5",
+            "nb_actes_csarr": "4.07"
+          }
+        }
+      }
+    }
+  }
+}

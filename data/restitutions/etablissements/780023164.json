@@ -1,0 +1,28 @@
+{
+  "finess": "780023164",
+  "raison_sociale": "CENTRE DE RÉÉDUCATION L'OISEAU BLANC",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "78",
+    "dep_name": "YVELINES"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "30",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "30",
+            "sexe_ratio": "86.7%",
+            "age_moyen": "66.8",
+            "avq_physique": "6",
+            "avq_relationnel": "2.13",
+            "nb_actes_csarr": "3.07"
+          }
+        }
+      }
+    }
+  }
+}

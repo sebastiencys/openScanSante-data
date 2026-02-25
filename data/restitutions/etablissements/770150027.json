@@ -1,0 +1,28 @@
+{
+  "finess": "770150027",
+  "raison_sociale": "CLINIQUE FSEF NEUFMOUTIERS EN BRIE",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "77",
+    "dep_name": "SEINE-ET-MARNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "187",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "187",
+            "sexe_ratio": "0%",
+            "age_moyen": "16",
+            "avq_physique": "6.6",
+            "avq_relationnel": "2.51",
+            "nb_actes_csarr": "8.38"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "700000045",
+  "raison_sociale": "CLINIQUE MÉDICALE BRUGNON AGACHE BEAUJEU",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "70",
+    "dep_name": "HAUTE-SAÔNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "112",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "112",
+            "sexe_ratio": "100%",
+            "age_moyen": "54",
+            "avq_physique": "5.54",
+            "avq_relationnel": "2.45",
+            "nb_actes_csarr": "1.2"
+          }
+        }
+      }
+    }
+  }
+}

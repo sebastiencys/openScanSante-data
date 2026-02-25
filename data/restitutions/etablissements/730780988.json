@@ -1,0 +1,38 @@
+{
+  "finess": "730780988",
+  "raison_sociale": "CLINIQUE GUSTAV ZANDER",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "73",
+    "dep_name": "SAVOIE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "151",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "151",
+            "sexe_ratio": "19.2%",
+            "age_moyen": "49.89",
+            "avq_physique": "5.91",
+            "avq_relationnel": "3.35",
+            "nb_actes_csarr": "3.46"
+          },
+          "0106SA2": {
+            "nb_journees_total": "13",
+            "nb_journees_hc": "13",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "29",
+            "avq_physique": "8",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "2.54"
+          }
+        }
+      }
+    }
+  }
+}

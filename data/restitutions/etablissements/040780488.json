@@ -1,0 +1,28 @@
+{
+  "finess": "040780488",
+  "raison_sociale": "CRRF L'EAU VIVE",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "04",
+    "dep_name": "ALPES-DE-HAUTE-PROVENCE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "61",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "61",
+            "sexe_ratio": "91.8%",
+            "age_moyen": "58.51",
+            "avq_physique": "6.98",
+            "avq_relationnel": "4.34",
+            "nb_actes_csarr": "3.84"
+          }
+        }
+      }
+    }
+  }
+}

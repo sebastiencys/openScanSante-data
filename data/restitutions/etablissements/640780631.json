@@ -1,0 +1,28 @@
+{
+  "finess": "640780631",
+  "raison_sociale": "CENTRE GRANCHER-CYRANO",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "64",
+    "dep_name": "PYRÉNÉES-ATLANTIQUES"
+  },
+  "periodes": {
+    "2025-10": {
+      "01": {
+        "0106": {
+          "0106SA1": {
+            "nb_journees_total": "12",
+            "nb_journees_hc": "12",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "72",
+            "avq_physique": "6",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.42"
+          }
+        }
+      }
+    }
+  }
+}

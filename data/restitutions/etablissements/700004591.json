@@ -1,0 +1,28 @@
+{
+  "finess": "700004591",
+  "raison_sociale": "GROUPEMENT HOSPITALIER DE HAUTE SAONE",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "70",
+    "dep_name": "HAUTE-SAÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA1": {
+            "nb_journees_total": "45",
+            "nb_journees_hc": "45",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "45",
+            "avq_physique": "5",
+            "avq_relationnel": "4.84",
+            "nb_actes_csarr": "2.24"
+          }
+        }
+      }
+    }
+  }
+}

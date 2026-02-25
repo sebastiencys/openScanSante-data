@@ -1,0 +1,38 @@
+{
+  "finess": "750000507",
+  "raison_sociale": "HÔPITAL SAINTE MARIE PARIS",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "75",
+    "dep_name": "PARIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "27",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "27",
+            "sexe_ratio": "100%",
+            "age_moyen": "50.52",
+            "avq_physique": "4.96",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.63"
+          },
+          "0106SA2": {
+            "nb_journees_total": "46",
+            "nb_journees_hc": "46",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "54",
+            "avq_physique": "4.61",
+            "avq_relationnel": "2.43",
+            "nb_actes_csarr": "3.15"
+          }
+        }
+      }
+    }
+  }
+}

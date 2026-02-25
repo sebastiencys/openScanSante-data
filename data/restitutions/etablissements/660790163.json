@@ -1,0 +1,48 @@
+{
+  "finess": "660790163",
+  "raison_sociale": "CRF LA PINEDE",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "66",
+    "dep_name": "PYRÉNÉES-ORIENTALES"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "40",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "40",
+            "sexe_ratio": "45%",
+            "age_moyen": "58.6",
+            "avq_physique": "5.1",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.48"
+          },
+          "0106SA2": {
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "39.3%",
+            "age_moyen": "63.43",
+            "avq_physique": "7.14",
+            "avq_relationnel": "3.29",
+            "nb_actes_csarr": "2.82"
+          },
+          "0106SA1": {
+            "nb_journees_total": "35",
+            "nb_journees_hc": "35",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "54",
+            "avq_physique": "6.14",
+            "avq_relationnel": "3.03",
+            "nb_actes_csarr": "3.17"
+          }
+        }
+      }
+    }
+  }
+}

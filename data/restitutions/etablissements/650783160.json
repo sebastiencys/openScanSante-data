@@ -1,0 +1,28 @@
+{
+  "finess": "650783160",
+  "raison_sociale": "CH TARBES LOURDES",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "65",
+    "dep_name": "HAUTES-PYRÉNÉES"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "22",
+            "nb_journees_hc": "22",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "87",
+            "avq_physique": "5",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "1.05"
+          }
+        }
+      }
+    }
+  }
+}

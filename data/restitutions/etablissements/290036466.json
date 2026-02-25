@@ -1,0 +1,28 @@
+{
+  "finess": "290036466",
+  "raison_sociale": "POLE READAPT DE CORNOUAILLE CONCARNEAU",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "29",
+    "dep_name": "FINISTÈRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "31",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "31",
+            "sexe_ratio": "77.4%",
+            "age_moyen": "66.87",
+            "avq_physique": "5.13",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.71"
+          }
+        }
+      }
+    }
+  }
+}

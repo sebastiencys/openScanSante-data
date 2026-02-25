@@ -1,0 +1,28 @@
+{
+  "finess": "360000053",
+  "raison_sociale": "CH DE CHATEAUROUX",
+  "geo": {
+    "reg_code": "24",
+    "reg_name": "CENTRE-VAL DE LOIRE",
+    "dep_code": "36",
+    "dep_name": "INDRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "53",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "53",
+            "sexe_ratio": "0%",
+            "age_moyen": "79.13",
+            "avq_physique": "8",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "2.34"
+          }
+        }
+      }
+    }
+  }
+}

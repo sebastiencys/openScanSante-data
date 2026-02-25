@@ -1,0 +1,28 @@
+{
+  "finess": "660781287",
+  "raison_sociale": "CRF LE FLORIDE",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "66",
+    "dep_name": "PYRÉNÉES-ORIENTALES"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "106",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "106",
+            "sexe_ratio": "59.4%",
+            "age_moyen": "62.08",
+            "avq_physique": "5.79",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "6.64"
+          }
+        }
+      }
+    }
+  }
+}

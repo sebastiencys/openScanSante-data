@@ -1,0 +1,28 @@
+{
+  "finess": "680022753",
+  "raison_sociale": "CENTRE DE RÉADAPTATION DE COLMAR",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "68",
+    "dep_name": "HAUT-RHIN"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "69",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "69",
+            "sexe_ratio": "43.5%",
+            "age_moyen": "62.54",
+            "avq_physique": "5.45",
+            "avq_relationnel": "2.41",
+            "nb_actes_csarr": "3.12"
+          }
+        }
+      }
+    }
+  }
+}

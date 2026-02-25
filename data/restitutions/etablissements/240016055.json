@@ -1,0 +1,28 @@
+{
+  "finess": "240016055",
+  "raison_sociale": "CHIC RIBERAC DRONNE DOUBLE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "24",
+    "dep_name": "DORDOGNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "12",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "12",
+            "sexe_ratio": "0%",
+            "age_moyen": "77.75",
+            "avq_physique": "9",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "2.58"
+          }
+        }
+      }
+    }
+  }
+}

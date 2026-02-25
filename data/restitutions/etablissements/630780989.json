@@ -1,0 +1,28 @@
+{
+  "finess": "630780989",
+  "raison_sociale": "CHU CLERMONT-FERRAND",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "63",
+    "dep_name": "PUY-DE-DÔME"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "51",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "51",
+            "sexe_ratio": "3.9%",
+            "age_moyen": "22.8",
+            "avq_physique": "7.71",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.43"
+          }
+        }
+      }
+    }
+  }
+}

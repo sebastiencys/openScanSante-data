@@ -1,0 +1,28 @@
+{
+  "finess": "910300045",
+  "raison_sociale": "CLINIQUE MEDICALE JARDINS DE BRUNOY",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "91",
+    "dep_name": "ESSONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "36",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "36",
+            "sexe_ratio": "100%",
+            "age_moyen": "75.67",
+            "avq_physique": "10",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "2.56"
+          }
+        }
+      }
+    }
+  }
+}

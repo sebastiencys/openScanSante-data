@@ -1,0 +1,28 @@
+{
+  "finess": "870000171",
+  "raison_sociale": "CENTRE LA CHENAIE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "87",
+    "dep_name": "HAUTE-VIENNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "12",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "12",
+            "sexe_ratio": "100%",
+            "age_moyen": "50",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.67"
+          }
+        }
+      }
+    }
+  }
+}

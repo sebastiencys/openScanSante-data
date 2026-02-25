@@ -1,0 +1,38 @@
+{
+  "finess": "510000037",
+  "raison_sociale": "CH CHALONS EN CHAMPAGNE",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "51",
+    "dep_name": "MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SA2": {
+            "nb_journees_total": "44",
+            "nb_journees_hc": "44",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "60",
+            "avq_physique": "4.43",
+            "avq_relationnel": "1.84",
+            "nb_actes_csarr": "4.91"
+          },
+          "0106SA1": {
+            "nb_journees_total": "30",
+            "nb_journees_hc": "30",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "54",
+            "avq_physique": "7",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.57"
+          }
+        }
+      }
+    }
+  }
+}

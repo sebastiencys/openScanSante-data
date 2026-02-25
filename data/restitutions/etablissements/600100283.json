@@ -1,0 +1,48 @@
+{
+  "finess": "600100283",
+  "raison_sociale": "CLINIQUE DE RÉÉDUCATION A DE ROTHSCHIL",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "60",
+    "dep_name": "OISE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "40",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "40",
+            "sexe_ratio": "0%",
+            "age_moyen": "44",
+            "avq_physique": "4.75",
+            "avq_relationnel": "3.25",
+            "nb_actes_csarr": "2.78"
+          },
+          "0106SA2": {
+            "nb_journees_total": "29",
+            "nb_journees_hc": "29",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "50",
+            "avq_physique": "4.83",
+            "avq_relationnel": "5",
+            "nb_actes_csarr": "1.72"
+          },
+          "0106SA1": {
+            "nb_journees_total": "84",
+            "nb_journees_hc": "84",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "62.96",
+            "avq_physique": "4.6",
+            "avq_relationnel": "3.5",
+            "nb_actes_csarr": "1.26"
+          }
+        }
+      }
+    }
+  }
+}

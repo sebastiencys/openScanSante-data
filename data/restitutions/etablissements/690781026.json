@@ -1,0 +1,48 @@
+{
+  "finess": "690781026",
+  "raison_sociale": "SSR VAL ROSAY",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "69",
+    "dep_name": "RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "441",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "441",
+            "sexe_ratio": "51.7%",
+            "age_moyen": "50.25",
+            "avq_physique": "6.34",
+            "avq_relationnel": "2.55",
+            "nb_actes_csarr": "4.09"
+          },
+          "0106SA2": {
+            "nb_journees_total": "238",
+            "nb_journees_hc": "238",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "36.66",
+            "avq_physique": "6.18",
+            "avq_relationnel": "3.73",
+            "nb_actes_csarr": "2.27"
+          },
+          "0106SA1": {
+            "nb_journees_total": "126",
+            "nb_journees_hc": "126",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "10.3%",
+            "age_moyen": "50.1",
+            "avq_physique": "4.3",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.64"
+          }
+        }
+      }
+    }
+  }
+}

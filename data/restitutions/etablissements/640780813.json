@@ -1,0 +1,28 @@
+{
+  "finess": "640780813",
+  "raison_sociale": "CH D'ORTHEZ",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "64",
+    "dep_name": "PYRÉNÉES-ATLANTIQUES"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "14",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "14",
+            "sexe_ratio": "0%",
+            "age_moyen": "52",
+            "avq_physique": "8",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.36"
+          }
+        }
+      }
+    }
+  }
+}

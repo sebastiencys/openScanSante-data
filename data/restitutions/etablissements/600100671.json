@@ -1,0 +1,28 @@
+{
+  "finess": "600100671",
+  "raison_sociale": "SSR BTP SAINT-OMER-EN-CHAUSSÉE",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "60",
+    "dep_name": "OISE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "23",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "23",
+            "sexe_ratio": "91.3%",
+            "age_moyen": "62.3",
+            "avq_physique": "5.52",
+            "avq_relationnel": "3.26",
+            "nb_actes_csarr": "2.78"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "910023407",
+  "raison_sociale": "CLINALLIANCE ETAMPES",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "91",
+    "dep_name": "ESSONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "87",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "87",
+            "sexe_ratio": "0%",
+            "age_moyen": "55.41",
+            "avq_physique": "8.85",
+            "avq_relationnel": "3.43",
+            "nb_actes_csarr": "7.23"
+          }
+        }
+      }
+    }
+  }
+}

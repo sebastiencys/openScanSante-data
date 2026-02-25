@@ -1,0 +1,28 @@
+{
+  "finess": "140027681",
+  "raison_sociale": "CMPR LA CLAIRIERE HEROUVILLE STCLAIR",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "14",
+    "dep_name": "CALVADOS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "313",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "313",
+            "sexe_ratio": "30.7%",
+            "age_moyen": "11.42",
+            "avq_physique": "7.76",
+            "avq_relationnel": "3.16",
+            "nb_actes_csarr": "5.83"
+          }
+        }
+      }
+    }
+  }
+}

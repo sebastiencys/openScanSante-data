@@ -1,0 +1,28 @@
+{
+  "finess": "240000307",
+  "raison_sociale": "CENTRE MÉDICAL CHATEAU DE BASSY",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "24",
+    "dep_name": "DORDOGNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "17",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "17",
+            "sexe_ratio": "0%",
+            "age_moyen": "55",
+            "avq_physique": "12.59",
+            "avq_relationnel": "3.59",
+            "nb_actes_csarr": "1.29"
+          }
+        }
+      }
+    }
+  }
+}

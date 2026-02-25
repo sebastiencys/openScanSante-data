@@ -1,0 +1,28 @@
+{
+  "finess": "970466504",
+  "raison_sociale": "CENTRE YLANG YLANG",
+  "geo": {
+    "reg_code": "04",
+    "reg_name": "LA RÉUNION",
+    "dep_code": "974",
+    "dep_name": "LA RÉUNION"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "100",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "100",
+            "sexe_ratio": "48%",
+            "age_moyen": "64.48",
+            "avq_physique": "9.75",
+            "avq_relationnel": "4.85",
+            "nb_actes_csarr": "3.43"
+          }
+        }
+      }
+    }
+  }
+}

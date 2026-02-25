@@ -1,0 +1,38 @@
+{
+  "finess": "740780143",
+  "raison_sociale": "ÉTABLISSEMENT DE SANTÉ EVIAN - MGEN",
+  "geo": {
+    "reg_code": "84",
+    "reg_name": "AUVERGNE-RHÔNE-ALPES",
+    "dep_code": "74",
+    "dep_name": "HAUTE-SAVOIE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "126",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "126",
+            "sexe_ratio": "70.6%",
+            "age_moyen": "33.81",
+            "avq_physique": "7.06",
+            "avq_relationnel": "3.06",
+            "nb_actes_csarr": "5.56"
+          },
+          "0106SA1": {
+            "nb_journees_total": "49",
+            "nb_journees_hc": "49",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "53",
+            "avq_physique": "4",
+            "avq_relationnel": "2.76",
+            "nb_actes_csarr": "2.2"
+          }
+        }
+      }
+    }
+  }
+}

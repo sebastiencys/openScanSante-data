@@ -1,0 +1,28 @@
+{
+  "finess": "780825816",
+  "raison_sociale": "FONDATION MALLET SITE RICHEBOURG",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "78",
+    "dep_name": "YVELINES"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "33",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "33",
+            "sexe_ratio": "100%",
+            "age_moyen": "55.18",
+            "avq_physique": "4.85",
+            "avq_relationnel": "2.12",
+            "nb_actes_csarr": "4.88"
+          }
+        }
+      }
+    }
+  }
+}

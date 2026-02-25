@@ -1,0 +1,28 @@
+{
+  "finess": "950013870",
+  "raison_sociale": "GHEM EAUBONNE MONTMORENCY SIMONE VEIL",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "95",
+    "dep_name": "VAL-D OISE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106LA0": {
+            "nb_journees_total": "27",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "27",
+            "sexe_ratio": "100%",
+            "age_moyen": "50",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.81"
+          }
+        }
+      }
+    }
+  }
+}

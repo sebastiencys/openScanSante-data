@@ -1,0 +1,28 @@
+{
+  "finess": "900000365",
+  "raison_sociale": "HÔPITAL NORD FRANCHE COMTE",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "90",
+    "dep_name": "TERRITOIRE DE BELFORT"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SA1": {
+            "nb_journees_total": "35",
+            "nb_journees_hc": "35",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "60",
+            "avq_physique": "4.54",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.31"
+          }
+        }
+      }
+    }
+  }
+}
