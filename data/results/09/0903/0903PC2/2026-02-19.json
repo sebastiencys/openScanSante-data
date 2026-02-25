@@ -1,0 +1,100 @@
+{
+  "site_updated_at": "2026-02-19",
+  "extracted_at": "2026-02-24 23:23:27",
+  "search_context": {
+    "annee": "2025",
+    "tgeo": "fe",
+    "codegeo": "99",
+    "SePP": "0",
+    "SeTailEt": "0",
+    "catmaj": "09",
+    "gn": "0903",
+    "gpmedeco": "0903PC2"
+  },
+  "data": [
+    {
+      "finess": "320780323",
+      "raison_sociale": "CRF DE ROQUETAILLADE",
+      "categorie": "PSPH/EBNL",
+      "periode": "M12",
+      "nb_journees_total": "407",
+      "nb_journees_hc": "407",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "17.7%",
+      "age_moyen": "3.85",
+      "avq_physique": "12.53",
+      "avq_relationnel": "6.35",
+      "nb_actes_csarr": "2.23"
+    },
+    {
+      "finess": "560002024",
+      "raison_sociale": "CRRF KERPAPE",
+      "categorie": "PSPH/EBNL",
+      "periode": "M12",
+      "nb_journees_total": "1 à 10",
+      "nb_journees_hc": "1 à 10",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_actes_csarr": "NA"
+    },
+    {
+      "finess": "590782611",
+      "raison_sociale": "SSR PEDIATRIQUE MARC SAUTELET",
+      "categorie": "PSPH/EBNL",
+      "periode": "M12",
+      "nb_journees_total": "15",
+      "nb_journees_hc": "15",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "2",
+      "avq_physique": "16",
+      "avq_relationnel": "8",
+      "nb_actes_csarr": "1.67"
+    },
+    {
+      "finess": "780530010",
+      "raison_sociale": "HÔPITAL DE PEDIATRIE ET DE REEDUCATION",
+      "categorie": "CH",
+      "periode": "M11",
+      "nb_journees_total": "1267",
+      "nb_journees_hc": "1267",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "41.7%",
+      "age_moyen": "6.09",
+      "avq_physique": "2.67",
+      "avq_relationnel": "1.32",
+      "nb_actes_csarr": "1.95"
+    },
+    {
+      "finess": "940016819",
+      "raison_sociale": "HÔPITAUX PARIS EST VAL-DE-MARNE",
+      "categorie": "CH",
+      "periode": "M12",
+      "nb_journees_total": "35",
+      "nb_journees_hc": "35",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "100%",
+      "age_moyen": "12",
+      "avq_physique": "11",
+      "avq_relationnel": "5",
+      "nb_actes_csarr": "3.26"
+    },
+    {
+      "finess": "Total",
+      "raison_sociale": "Total",
+      "categorie": "Total",
+      "periode": "Total",
+      "nb_journees_total": "1728",
+      "nb_journees_hc": "1728",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "37%",
+      "age_moyen": "5.63",
+      "avq_physique": "5.3",
+      "avq_relationnel": "2.66",
+      "nb_actes_csarr": "2.04"
+    }
+  ]
+}
