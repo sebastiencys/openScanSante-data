@@ -1,0 +1,28 @@
+{
+  "finess": "400780268",
+  "raison_sociale": "CH DE SAINT SEVER",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "40",
+    "dep_name": "LANDES"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SC1": {
+            "nb_journees_total": "42",
+            "nb_journees_hc": "42",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "63",
+            "avq_physique": "14.5",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.17"
+          }
+        }
+      }
+    }
+  }
+}

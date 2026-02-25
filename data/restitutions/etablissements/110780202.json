@@ -1,0 +1,28 @@
+{
+  "finess": "110780202",
+  "raison_sociale": "MAISON DE REPOS ET DE CONVALESCENCE CHT LA VERNEDE",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "11",
+    "dep_name": "AUDE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SC1": {
+            "nb_journees_total": "42",
+            "nb_journees_hc": "42",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "70",
+            "avq_physique": "8.69",
+            "avq_relationnel": "2.9",
+            "nb_actes_csarr": "2.67"
+          }
+        }
+      }
+    }
+  }
+}

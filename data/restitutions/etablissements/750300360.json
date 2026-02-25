@@ -1,0 +1,28 @@
+{
+  "finess": "750300360",
+  "raison_sociale": "HÔPITAL PRIVÉ DES PEUPLIERS",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "75",
+    "dep_name": "PARIS"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SC1": {
+            "nb_journees_total": "21",
+            "nb_journees_hc": "21",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "80",
+            "avq_physique": "12.33",
+            "avq_relationnel": "4.33",
+            "nb_actes_csarr": "0.71"
+          }
+        }
+      }
+    }
+  }
+}

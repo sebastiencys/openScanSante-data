@@ -1,0 +1,28 @@
+{
+  "finess": "350000048",
+  "raison_sociale": "CHIC REDON CARENTOIR",
+  "geo": {
+    "reg_code": "53",
+    "reg_name": "BRETAGNE",
+    "dep_code": "35",
+    "dep_name": "ILLE-ET-VILAINE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SC1": {
+            "nb_journees_total": "12",
+            "nb_journees_hc": "12",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "69.58",
+            "avq_physique": "13",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.42"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "620100495",
+  "raison_sociale": "CLINIQUE LES DRAGS CONVALESCENCE",
+  "geo": {
+    "reg_code": "32",
+    "reg_name": "HAUTS-DE-FRANCE",
+    "dep_code": "62",
+    "dep_name": "PAS-DE-CALAIS"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0106": {
+          "0106SC1": {
+            "nb_journees_total": "20",
+            "nb_journees_hc": "20",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "80",
+            "avq_physique": "12.9",
+            "avq_relationnel": "5.3",
+            "nb_actes_csarr": "0.9"
+          }
+        }
+      }
+    }
+  }
+}

@@ -41,6 +41,16 @@
             "avq_relationnel": "2.86",
             "nb_actes_csarr": "2.72"
           },
+          "0106SC1": {
+            "nb_journees_total": "77",
+            "nb_journees_hc": "77",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "72",
+            "avq_physique": "6.91",
+            "avq_relationnel": "3.36",
+            "nb_actes_csarr": "2.97"
+          },
           "0106SB2": {
             "nb_journees_total": "45",
             "nb_journees_hc": "45",

@@ -1,0 +1,28 @@
+{
+  "finess": "510024359",
+  "raison_sociale": "CLINIQUE TERRE DE FRANCE",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "51",
+    "dep_name": "MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0106": {
+          "0106SC1": {
+            "nb_journees_total": "14",
+            "nb_journees_hc": "14",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "69",
+            "avq_physique": "14",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "1.71"
+          }
+        }
+      }
+    }
+  }
+}
