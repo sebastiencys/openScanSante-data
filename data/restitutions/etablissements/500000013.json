@@ -1,0 +1,28 @@
+{
+  "finess": "500000013",
+  "raison_sociale": "CH DU COTENTIN",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "50",
+    "dep_name": "MANCHE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "364",
+            "nb_journees_hc": "364",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "52.65",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.14"
+          }
+        }
+      }
+    }
+  }
+}

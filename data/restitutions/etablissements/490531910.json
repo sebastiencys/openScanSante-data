@@ -1,0 +1,28 @@
+{
+  "finess": "490531910",
+  "raison_sociale": "SSR LES CAPUCINS",
+  "geo": {
+    "reg_code": "52",
+    "reg_name": "PAYS DE LA LOIRE",
+    "dep_code": "49",
+    "dep_name": "MAINE-ET-LOIRE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "217",
+            "nb_journees_hc": "217",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "76.52",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.16"
+          }
+        }
+      }
+    }
+  }
+}

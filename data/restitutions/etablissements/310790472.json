@@ -1,0 +1,28 @@
+{
+  "finess": "310790472",
+  "raison_sociale": "CLINIQUE SAINT ORENS",
+  "geo": {
+    "reg_code": "76",
+    "reg_name": "OCCITANIE",
+    "dep_code": "31",
+    "dep_name": "HAUTE-GARONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "457",
+            "nb_journees_hc": "457",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "57.26",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "1.51"
+          }
+        }
+      }
+    }
+  }
+}

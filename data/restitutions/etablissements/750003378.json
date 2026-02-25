@@ -1,0 +1,28 @@
+{
+  "finess": "750003378",
+  "raison_sociale": "CLINIQUE CANAL DE L OURCQ INICEA",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "75",
+    "dep_name": "PARIS"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "554",
+            "nb_journees_hc": "554",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "43.58",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.29"
+          }
+        }
+      }
+    }
+  }
+}

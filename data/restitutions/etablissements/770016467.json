@@ -1,0 +1,28 @@
+{
+  "finess": "770016467",
+  "raison_sociale": "CLINIQUE DES PAYS DE MEAUX",
+  "geo": {
+    "reg_code": "11",
+    "reg_name": "ILE-DE-FRANCE",
+    "dep_code": "77",
+    "dep_name": "SEINE-ET-MARNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "314",
+            "nb_journees_hc": "314",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "2.2%",
+            "age_moyen": "69.61",
+            "avq_physique": "15.98",
+            "avq_relationnel": "7.26",
+            "nb_actes_csarr": "0.46"
+          }
+        }
+      }
+    }
+  }
+}

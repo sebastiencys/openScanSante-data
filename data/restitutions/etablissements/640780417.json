@@ -1,0 +1,28 @@
+{
+  "finess": "640780417",
+  "raison_sociale": "CH COTE BASQUE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "64",
+    "dep_name": "PYRÉNÉES-ATLANTIQUES"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "27",
+            "nb_journees_hc": "27",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "34.48",
+            "avq_physique": "15.7",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "2.11"
+          }
+        }
+      }
+    }
+  }
+}

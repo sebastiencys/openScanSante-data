@@ -1,0 +1,28 @@
+{
+  "finess": "390780179",
+  "raison_sociale": "CHIC DU PAYS DU REVERMONT",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "39",
+    "dep_name": "JURA"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "896",
+            "nb_journees_hc": "896",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "96.4%",
+            "age_moyen": "56.25",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.92"
+          }
+        }
+      }
+    }
+  }
+}

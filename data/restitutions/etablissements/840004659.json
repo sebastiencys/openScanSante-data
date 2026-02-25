@@ -1,0 +1,28 @@
+{
+  "finess": "840004659",
+  "raison_sociale": "CHIC CAVAILLON-LAURIS",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "84",
+    "dep_name": "VAUCLUSE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "312",
+            "nb_journees_hc": "312",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "39.98",
+            "avq_physique": "14.78",
+            "avq_relationnel": "7.69",
+            "nb_actes_csarr": "0.15"
+          }
+        }
+      }
+    }
+  }
+}

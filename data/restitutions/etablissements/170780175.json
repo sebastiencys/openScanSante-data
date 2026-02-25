@@ -1,0 +1,28 @@
+{
+  "finess": "170780175",
+  "raison_sociale": "GH SAINTES - SAINT JEAN D'ANGELY",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "17",
+    "dep_name": "CHARENTE-MARITIME"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "1092",
+            "nb_journees_hc": "1092",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "33.3%",
+            "age_moyen": "44.61",
+            "avq_physique": "16",
+            "avq_relationnel": "6.62",
+            "nb_actes_csarr": "0.24"
+          }
+        }
+      }
+    }
+  }
+}

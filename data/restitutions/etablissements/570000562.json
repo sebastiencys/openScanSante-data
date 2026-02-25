@@ -1,0 +1,28 @@
+{
+  "finess": "570000562",
+  "raison_sociale": "HÔPITAL MARANGE",
+  "geo": {
+    "reg_code": "44",
+    "reg_name": "GRAND EST",
+    "dep_code": "57",
+    "dep_name": "MOSELLE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "1676",
+            "nb_journees_hc": "1676",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "44.74",
+            "avq_physique": "16",
+            "avq_relationnel": "7.78",
+            "nb_actes_csarr": "6.21"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "finess": "130028228",
+  "raison_sociale": "HÔPITAUX DES PORTES DE CAMARGUE",
+  "geo": {
+    "reg_code": "93",
+    "reg_name": "PROVENCE-ALPES-CÔTE D'AZUR",
+    "dep_code": "13",
+    "dep_name": "BOUCHES-DU-RHÔNE"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "858",
+            "nb_journees_hc": "858",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "40.28",
+            "avq_physique": "15.36",
+            "avq_relationnel": "5.98",
+            "nb_actes_csarr": "0.84"
+          }
+        }
+      }
+    }
+  }
+}

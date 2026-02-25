@@ -1,0 +1,28 @@
+{
+  "finess": "180000051",
+  "raison_sociale": "CH VIERZON",
+  "geo": {
+    "reg_code": "24",
+    "reg_name": "CENTRE-VAL DE LOIRE",
+    "dep_code": "18",
+    "dep_name": "CHER"
+  },
+  "periodes": {
+    "2025-12": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "364",
+            "nb_journees_hc": "364",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "53.83",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.14"
+          }
+        }
+      }
+    }
+  }
+}

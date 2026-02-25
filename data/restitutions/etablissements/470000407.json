@@ -1,0 +1,28 @@
+{
+  "finess": "470000407",
+  "raison_sociale": "CH DE FUMEL",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "47",
+    "dep_name": "LOT-ET-GARONNE"
+  },
+  "periodes": {
+    "2025-11": {
+      "01": {
+        "0103": {
+          "0103SC1": {
+            "nb_journees_total": "15",
+            "nb_journees_hc": "15",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "44",
+            "avq_physique": "16",
+            "avq_relationnel": "8",
+            "nb_actes_csarr": "0.2"
+          }
+        }
+      }
+    }
+  }
+}
