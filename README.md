@@ -1,2 +1,2 @@
 # openScanSante-data
-Données publiques ScanSanté
+Données publiques ScanSanté (SMR)
