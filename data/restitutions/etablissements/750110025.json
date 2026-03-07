@@ -5,7 +5,9 @@
     "reg_code": "11",
     "reg_name": "ILE-DE-FRANCE",
     "dep_code": "75",
-    "dep_name": "PARIS"
+    "dep_name": "PARIS",
+    "raison_sociale": "CNO QUINZE VINGTS",
+    "categorie": "CH"
   },
   "periodes": {
     "2025-12": {

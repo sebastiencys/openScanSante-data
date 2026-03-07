@@ -5,7 +5,9 @@
     "reg_code": "75",
     "reg_name": "NOUVELLE-AQUITAINE",
     "dep_code": "16",
-    "dep_name": "CHARENTE"
+    "dep_name": "CHARENTE",
+    "raison_sociale": "SMR ANTENNE CRBVTA",
+    "categorie": "Privé"
   },
   "periodes": {
     "2025-12": {

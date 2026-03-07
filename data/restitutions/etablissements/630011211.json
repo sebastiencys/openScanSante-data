@@ -5,7 +5,9 @@
     "reg_code": "84",
     "reg_name": "AUVERGNE-RHÔNE-ALPES",
     "dep_code": "63",
-    "dep_name": "PUY-DE-DÔME"
+    "dep_name": "PUY-DE-DÔME",
+    "raison_sociale": "SSR AUVERGNE BASSE VISION",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {

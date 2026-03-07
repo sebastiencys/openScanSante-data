@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-02-19",
-  "extracted_at": "2026-02-25 13:17:17",
+  "site_updated_at": "2026-03-05",
+  "extracted_at": "2026-03-07 10:00:55",
   "search_context": {
     "annee": "2025",
     "tgeo": "fe",
@@ -72,7 +72,7 @@
       "finess": "570000596",
       "raison_sociale": "HÔPITAL D'INSTRUCTION DES ARMÉES LEGOUEST",
       "categorie": "CH",
-      "periode": "M11",
+      "periode": "M12",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "0",
       "nb_journees_hp": "1 à 10",
