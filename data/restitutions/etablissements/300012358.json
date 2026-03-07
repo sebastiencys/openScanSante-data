@@ -24,6 +24,20 @@
             "nb_actes_csarr": "NA"
           }
         }
+      },
+      "03": {
+        "0303": {
+          "0303LA0": {
+            "nb_journees_total": "22",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "22",
+            "sexe_ratio": "100%",
+            "age_moyen": "75.55",
+            "avq_physique": "8.09",
+            "avq_relationnel": "3.64",
+            "nb_actes_csarr": "3.32"
+          }
+        }
       }
     }
   }
