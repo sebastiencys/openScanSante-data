@@ -24,20 +24,6 @@
             "nb_actes_csarr": "2.11"
           }
         }
-      },
-      "03": {
-        "0303": {
-          "0303TB1": {
-            "nb_journees_total": "49",
-            "nb_journees_hc": "49",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "100%",
-            "age_moyen": "78",
-            "avq_physique": "7",
-            "avq_relationnel": "4",
-            "nb_actes_csarr": "0.86"
-          }
-        }
       }
     }
   }

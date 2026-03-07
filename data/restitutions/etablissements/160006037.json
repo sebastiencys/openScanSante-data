@@ -24,30 +24,6 @@
             "nb_actes_csarr": "NA"
           }
         }
-      },
-      "03": {
-        "0303": {
-          "0303TB1": {
-            "nb_journees_total": "24",
-            "nb_journees_hc": "24",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "100%",
-            "age_moyen": "77",
-            "avq_physique": "6",
-            "avq_relationnel": "4.71",
-            "nb_actes_csarr": "1.29"
-          },
-          "0303TB2": {
-            "nb_journees_total": "19",
-            "nb_journees_hc": "19",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "100%",
-            "age_moyen": "76",
-            "avq_physique": "7",
-            "avq_relationnel": "6",
-            "nb_actes_csarr": "1.05"
-          }
-        }
       }
     }
   }
