@@ -5,7 +5,9 @@
     "reg_code": "53",
     "reg_name": "BRETAGNE",
     "dep_code": "56",
-    "dep_name": "MORBIHAN"
+    "dep_name": "MORBIHAN",
+    "raison_sociale": "CLINIQUE OCEANE",
+    "categorie": "Privé"
   },
   "periodes": {
     "2025-12": {

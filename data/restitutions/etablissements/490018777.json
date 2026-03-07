@@ -5,7 +5,9 @@
     "reg_code": "52",
     "reg_name": "PAYS DE LA LOIRE",
     "dep_code": "49",
-    "dep_name": "MAINE-ET-LOIRE"
+    "dep_name": "MAINE-ET-LOIRE",
+    "raison_sociale": "SSR LE CHILLON CHOLET",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {
@@ -21,16 +23,6 @@
             "avq_relationnel": "3.34",
             "nb_actes_csarr": "3.39"
           },
-          "1903KA0": {
-            "nb_journees_total": "72",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "72",
-            "sexe_ratio": "58.3%",
-            "age_moyen": "46.29",
-            "avq_physique": "4.24",
-            "avq_relationnel": "3.31",
-            "nb_actes_csarr": "0.9"
-          },
           "1903JA0": {
             "nb_journees_total": "896",
             "nb_journees_hc": "0",
@@ -40,6 +32,16 @@
             "avq_physique": "4.28",
             "avq_relationnel": "3.25",
             "nb_actes_csarr": "2.07"
+          },
+          "1903KA0": {
+            "nb_journees_total": "72",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "72",
+            "sexe_ratio": "58.3%",
+            "age_moyen": "46.29",
+            "avq_physique": "4.24",
+            "avq_relationnel": "3.31",
+            "nb_actes_csarr": "0.9"
           }
         },
         "1909": {

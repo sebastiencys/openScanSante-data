@@ -5,7 +5,9 @@
     "reg_code": "53",
     "reg_name": "BRETAGNE",
     "dep_code": "29",
-    "dep_name": "FINISTÈRE"
+    "dep_name": "FINISTÈRE",
+    "raison_sociale": "MEACS CROZON",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {

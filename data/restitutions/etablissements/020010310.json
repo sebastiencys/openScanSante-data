@@ -5,12 +5,24 @@
     "reg_code": "32",
     "reg_name": "HAUTS-DE-FRANCE",
     "dep_code": "02",
-    "dep_name": "AISNE"
+    "dep_name": "AISNE",
+    "raison_sociale": "SSR AURORE BUCY-LE-LONG",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {
       "19": {
         "1903": {
+          "1903SA1": {
+            "nb_journees_total": "3854",
+            "nb_journees_hc": "3854",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "63.1%",
+            "age_moyen": "40.17",
+            "avq_physique": "4",
+            "avq_relationnel": "3.06",
+            "nb_actes_csarr": "1.42"
+          },
           "1903SA2": {
             "nb_journees_total": "1439",
             "nb_journees_hc": "1439",
@@ -20,16 +32,6 @@
             "avq_physique": "4.06",
             "avq_relationnel": "3.13",
             "nb_actes_csarr": "1.47"
-          },
-          "1903UA2": {
-            "nb_journees_total": "24",
-            "nb_journees_hc": "24",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "45.8%",
-            "age_moyen": "31.54",
-            "avq_physique": "4.63",
-            "avq_relationnel": "4.08",
-            "nb_actes_csarr": "1.38"
           },
           "1903UA1": {
             "nb_journees_total": "89",
@@ -41,15 +43,15 @@
             "avq_relationnel": "3.87",
             "nb_actes_csarr": "1.06"
           },
-          "1903SA1": {
-            "nb_journees_total": "3854",
-            "nb_journees_hc": "3854",
+          "1903UA2": {
+            "nb_journees_total": "24",
+            "nb_journees_hc": "24",
             "nb_journees_hp": "0",
-            "sexe_ratio": "63.1%",
-            "age_moyen": "40.17",
-            "avq_physique": "4",
-            "avq_relationnel": "3.06",
-            "nb_actes_csarr": "1.42"
+            "sexe_ratio": "45.8%",
+            "age_moyen": "31.54",
+            "avq_physique": "4.63",
+            "avq_relationnel": "4.08",
+            "nb_actes_csarr": "1.38"
           }
         }
       }

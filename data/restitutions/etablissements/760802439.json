@@ -5,7 +5,9 @@
     "reg_code": "28",
     "reg_name": "NORMANDIE",
     "dep_code": "76",
-    "dep_name": "SEINE-MARITIME"
+    "dep_name": "SEINE-MARITIME",
+    "raison_sociale": "MECS LES HELLANDES",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {

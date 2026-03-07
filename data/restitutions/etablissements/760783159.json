@@ -5,12 +5,24 @@
     "reg_code": "28",
     "reg_name": "NORMANDIE",
     "dep_code": "76",
-    "dep_name": "SEINE-MARITIME"
+    "dep_name": "SEINE-MARITIME",
+    "raison_sociale": "CLINIQUE DES ESSARTS",
+    "categorie": "Privé"
   },
   "periodes": {
     "2025-12": {
       "19": {
         "1903": {
+          "1903SA1": {
+            "nb_journees_total": "16004",
+            "nb_journees_hc": "16004",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "75.7%",
+            "age_moyen": "46.1",
+            "avq_physique": "4.01",
+            "avq_relationnel": "2.14",
+            "nb_actes_csarr": "1.7"
+          },
           "1903SA2": {
             "nb_journees_total": "1419",
             "nb_journees_hc": "1419",
@@ -21,15 +33,15 @@
             "avq_relationnel": "2.31",
             "nb_actes_csarr": "1.65"
           },
-          "1903UA2": {
-            "nb_journees_total": "771",
-            "nb_journees_hc": "771",
+          "1903SB1": {
+            "nb_journees_total": "97",
+            "nb_journees_hc": "97",
             "nb_journees_hp": "0",
-            "sexe_ratio": "83.5%",
-            "age_moyen": "45.88",
-            "avq_physique": "4.21",
-            "avq_relationnel": "2.75",
-            "nb_actes_csarr": "1.2"
+            "sexe_ratio": "84.5%",
+            "age_moyen": "46.6",
+            "avq_physique": "6.23",
+            "avq_relationnel": "3.3",
+            "nb_actes_csarr": "1.7"
           },
           "1903SB2": {
             "nb_journees_total": "23",
@@ -51,15 +63,15 @@
             "avq_relationnel": "2.45",
             "nb_actes_csarr": "1.23"
           },
-          "1903SA1": {
-            "nb_journees_total": "16004",
-            "nb_journees_hc": "16004",
+          "1903UA2": {
+            "nb_journees_total": "771",
+            "nb_journees_hc": "771",
             "nb_journees_hp": "0",
-            "sexe_ratio": "75.7%",
-            "age_moyen": "46.1",
-            "avq_physique": "4.01",
-            "avq_relationnel": "2.14",
-            "nb_actes_csarr": "1.7"
+            "sexe_ratio": "83.5%",
+            "age_moyen": "45.88",
+            "avq_physique": "4.21",
+            "avq_relationnel": "2.75",
+            "nb_actes_csarr": "1.2"
           },
           "1903UB1": {
             "nb_journees_total": "45",
@@ -70,16 +82,6 @@
             "avq_physique": "4",
             "avq_relationnel": "6.69",
             "nb_actes_csarr": "1.09"
-          },
-          "1903SB1": {
-            "nb_journees_total": "97",
-            "nb_journees_hc": "97",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "84.5%",
-            "age_moyen": "46.6",
-            "avq_physique": "6.23",
-            "avq_relationnel": "3.3",
-            "nb_actes_csarr": "1.7"
           }
         }
       }

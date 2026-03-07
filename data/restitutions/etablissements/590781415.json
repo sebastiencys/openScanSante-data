@@ -5,45 +5,13 @@
     "reg_code": "32",
     "reg_name": "HAUTS-DE-FRANCE",
     "dep_code": "59",
-    "dep_name": "NORD"
+    "dep_name": "NORD",
+    "raison_sociale": "CH DE DUNKERQUE",
+    "categorie": "CH"
   },
   "periodes": {
     "2025-12": {
       "05": {
-        "0509": {
-          "0509IA0": {
-            "nb_journees_total": "1550",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "1550",
-            "sexe_ratio": "71%",
-            "age_moyen": "61.83",
-            "avq_physique": "4",
-            "avq_relationnel": "2",
-            "nb_actes_csarr": "2.99"
-          },
-          "0509JA0": {
-            "nb_journees_total": "1154",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "1154",
-            "sexe_ratio": "72.4%",
-            "age_moyen": "61.17",
-            "avq_physique": "4",
-            "avq_relationnel": "2",
-            "nb_actes_csarr": "2.59"
-          }
-        },
-        "0521": {
-          "0521LA0": {
-            "nb_journees_total": "20",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "20",
-            "sexe_ratio": "100%",
-            "age_moyen": "75",
-            "avq_physique": "4",
-            "avq_relationnel": "2",
-            "nb_actes_csarr": "2.85"
-          }
-        },
         "0503": {
           "0503IA0": {
             "nb_journees_total": "195",
@@ -66,17 +34,29 @@
             "nb_actes_csarr": "2.58"
           }
         },
-        "0512": {
-          "0512JA0": {
-            "nb_journees_total": "89",
+        "0509": {
+          "0509IA0": {
+            "nb_journees_total": "1550",
             "nb_journees_hc": "0",
-            "nb_journees_hp": "89",
-            "sexe_ratio": "88.8%",
-            "age_moyen": "60.17",
+            "nb_journees_hp": "1550",
+            "sexe_ratio": "71%",
+            "age_moyen": "61.83",
             "avq_physique": "4",
             "avq_relationnel": "2",
-            "nb_actes_csarr": "2.57"
+            "nb_actes_csarr": "2.99"
           },
+          "0509JA0": {
+            "nb_journees_total": "1154",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "1154",
+            "sexe_ratio": "72.4%",
+            "age_moyen": "61.17",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.59"
+          }
+        },
+        "0512": {
           "0512IA0": {
             "nb_journees_total": "95",
             "nb_journees_hc": "0",
@@ -86,6 +66,16 @@
             "avq_physique": "4",
             "avq_relationnel": "2",
             "nb_actes_csarr": "2.98"
+          },
+          "0512JA0": {
+            "nb_journees_total": "89",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "89",
+            "sexe_ratio": "88.8%",
+            "age_moyen": "60.17",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.57"
           }
         },
         "0515": {
@@ -120,6 +110,18 @@
             "avq_physique": "4",
             "avq_relationnel": "2",
             "nb_actes_csarr": "2.57"
+          }
+        },
+        "0521": {
+          "0521LA0": {
+            "nb_journees_total": "20",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "20",
+            "sexe_ratio": "100%",
+            "age_moyen": "75",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "2.85"
           }
         }
       }

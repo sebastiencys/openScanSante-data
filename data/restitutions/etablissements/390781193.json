@@ -5,12 +5,24 @@
     "reg_code": "27",
     "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
     "dep_code": "39",
-    "dep_name": "JURA"
+    "dep_name": "JURA",
+    "raison_sociale": "MAISON SOINS ADLCA BLETTERANS",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {
       "19": {
         "1903": {
+          "1903SA1": {
+            "nb_journees_total": "352",
+            "nb_journees_hc": "352",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "86.1%",
+            "age_moyen": "46.7",
+            "avq_physique": "4.25",
+            "avq_relationnel": "2.74",
+            "nb_actes_csarr": "1.74"
+          },
           "1903SA2": {
             "nb_journees_total": "483",
             "nb_journees_hc": "483",
@@ -21,15 +33,15 @@
             "avq_relationnel": "2.33",
             "nb_actes_csarr": "1.86"
           },
-          "1903UA2": {
-            "nb_journees_total": "1 à 10",
-            "nb_journees_hc": "1 à 10",
+          "1903SB1": {
+            "nb_journees_total": "57",
+            "nb_journees_hc": "57",
             "nb_journees_hp": "0",
-            "sexe_ratio": "NA",
-            "age_moyen": "NA",
-            "avq_physique": "NA",
-            "avq_relationnel": "NA",
-            "nb_actes_csarr": "NA"
+            "sexe_ratio": "0%",
+            "age_moyen": "42",
+            "avq_physique": "5.98",
+            "avq_relationnel": "2.75",
+            "nb_actes_csarr": "1.14"
           },
           "1903UA1": {
             "nb_journees_total": "17",
@@ -41,25 +53,15 @@
             "avq_relationnel": "2.47",
             "nb_actes_csarr": "1.12"
           },
-          "1903SA1": {
-            "nb_journees_total": "352",
-            "nb_journees_hc": "352",
+          "1903UA2": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
             "nb_journees_hp": "0",
-            "sexe_ratio": "86.1%",
-            "age_moyen": "46.7",
-            "avq_physique": "4.25",
-            "avq_relationnel": "2.74",
-            "nb_actes_csarr": "1.74"
-          },
-          "1903SB1": {
-            "nb_journees_total": "57",
-            "nb_journees_hc": "57",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "0%",
-            "age_moyen": "42",
-            "avq_physique": "5.98",
-            "avq_relationnel": "2.75",
-            "nb_actes_csarr": "1.14"
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
           }
         },
         "1906": {
@@ -73,15 +75,15 @@
             "avq_relationnel": "2.39",
             "nb_actes_csarr": "1.81"
           },
-          "1906SB2": {
-            "nb_journees_total": "29",
-            "nb_journees_hc": "29",
+          "1906SA2": {
+            "nb_journees_total": "1783",
+            "nb_journees_hc": "1783",
             "nb_journees_hp": "0",
-            "sexe_ratio": "0%",
-            "age_moyen": "56",
-            "avq_physique": "7.17",
-            "avq_relationnel": "2.14",
-            "nb_actes_csarr": "1.07"
+            "sexe_ratio": "66.7%",
+            "age_moyen": "42.35",
+            "avq_physique": "4.31",
+            "avq_relationnel": "2.42",
+            "nb_actes_csarr": "1.69"
           },
           "1906SB1": {
             "nb_journees_total": "159",
@@ -93,28 +95,18 @@
             "avq_relationnel": "2.67",
             "nb_actes_csarr": "1.7"
           },
-          "1906SA2": {
-            "nb_journees_total": "1783",
-            "nb_journees_hc": "1783",
+          "1906SB2": {
+            "nb_journees_total": "29",
+            "nb_journees_hc": "29",
             "nb_journees_hp": "0",
-            "sexe_ratio": "66.7%",
-            "age_moyen": "42.35",
-            "avq_physique": "4.31",
-            "avq_relationnel": "2.42",
-            "nb_actes_csarr": "1.69"
+            "sexe_ratio": "0%",
+            "age_moyen": "56",
+            "avq_physique": "7.17",
+            "avq_relationnel": "2.14",
+            "nb_actes_csarr": "1.07"
           }
         },
         "1909": {
-          "1909SA2": {
-            "nb_journees_total": "1739",
-            "nb_journees_hc": "1739",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "93.5%",
-            "age_moyen": "41.01",
-            "avq_physique": "4.15",
-            "avq_relationnel": "2.49",
-            "nb_actes_csarr": "1.72"
-          },
           "1909SA1": {
             "nb_journees_total": "1983",
             "nb_journees_hc": "1983",
@@ -124,6 +116,16 @@
             "avq_physique": "4.16",
             "avq_relationnel": "2.38",
             "nb_actes_csarr": "1.93"
+          },
+          "1909SA2": {
+            "nb_journees_total": "1739",
+            "nb_journees_hc": "1739",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "93.5%",
+            "age_moyen": "41.01",
+            "avq_physique": "4.15",
+            "avq_relationnel": "2.49",
+            "nb_actes_csarr": "1.72"
           },
           "1909SB1": {
             "nb_journees_total": "68",

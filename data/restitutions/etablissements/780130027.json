@@ -5,7 +5,9 @@
     "reg_code": "11",
     "reg_name": "ILE-DE-FRANCE",
     "dep_code": "78",
-    "dep_name": "YVELINES"
+    "dep_name": "YVELINES",
+    "raison_sociale": "HL DE HOUDAN",
+    "categorie": "CH"
   },
   "periodes": {
     "2025-12": {

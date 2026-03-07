@@ -5,81 +5,69 @@
     "reg_code": "32",
     "reg_name": "HAUTS-DE-FRANCE",
     "dep_code": "59",
-    "dep_name": "NORD"
+    "dep_name": "NORD",
+    "raison_sociale": "POLYCLINIQUE DE LA LOUVIERE",
+    "categorie": "Privé"
   },
   "periodes": {
-    "2025-11": {
-      "23": {
-        "2318": {
-          "2318LA0": {
-            "nb_journees_total": "113",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "113",
-            "sexe_ratio": "16.8%",
-            "age_moyen": "66.82",
-            "avq_physique": "4.12",
-            "avq_relationnel": "2.26",
-            "nb_actes_csarr": "3.62"
-          }
-        }
-      },
+    "2025-12": {
       "04": {
-        "0424": {
-          "0424LA0": {
-            "nb_journees_total": "222",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "222",
-            "sexe_ratio": "57.2%",
-            "age_moyen": "71.98",
-            "avq_physique": "4.13",
-            "avq_relationnel": "2.22",
-            "nb_actes_csarr": "3.56"
-          }
-        },
         "0403": {
           "0403LA0": {
-            "nb_journees_total": "82",
+            "nb_journees_total": "97",
             "nb_journees_hc": "0",
-            "nb_journees_hp": "82",
-            "sexe_ratio": "35.4%",
-            "age_moyen": "68.18",
-            "avq_physique": "4.05",
-            "avq_relationnel": "2.05",
+            "nb_journees_hp": "97",
+            "sexe_ratio": "29.9%",
+            "age_moyen": "69.18",
+            "avq_physique": "4.12",
+            "avq_relationnel": "2.12",
             "nb_actes_csarr": "3.63"
           }
         },
         "0406": {
-          "0406JA0": {
-            "nb_journees_total": "87",
+          "0406IA0": {
+            "nb_journees_total": "832",
             "nb_journees_hc": "0",
-            "nb_journees_hp": "87",
-            "sexe_ratio": "63.2%",
-            "age_moyen": "65.55",
-            "avq_physique": "4.3",
+            "nb_journees_hp": "832",
+            "sexe_ratio": "63.1%",
+            "age_moyen": "67.81",
+            "avq_physique": "4.44",
+            "avq_relationnel": "2.21",
+            "nb_actes_csarr": "3.76"
+          },
+          "0406JA0": {
+            "nb_journees_total": "90",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "90",
+            "sexe_ratio": "64.4%",
+            "age_moyen": "65.43",
+            "avq_physique": "4.39",
             "avq_relationnel": "2.06",
             "nb_actes_csarr": "2.7"
-          },
-          "0406IA0": {
-            "nb_journees_total": "764",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "764",
-            "sexe_ratio": "61.8%",
-            "age_moyen": "67.72",
-            "avq_physique": "4.44",
-            "avq_relationnel": "2.15",
-            "nb_actes_csarr": "3.76"
           }
         },
         "0409": {
           "0409LA0": {
-            "nb_journees_total": "308",
+            "nb_journees_total": "317",
             "nb_journees_hc": "0",
-            "nb_journees_hp": "308",
-            "sexe_ratio": "31.8%",
-            "age_moyen": "70.6",
+            "nb_journees_hp": "317",
+            "sexe_ratio": "30.9%",
+            "age_moyen": "69.99",
             "avq_physique": "4",
-            "avq_relationnel": "2.26",
+            "avq_relationnel": "2.25",
             "nb_actes_csarr": "3.64"
+          }
+        },
+        "0424": {
+          "0424LA0": {
+            "nb_journees_total": "255",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "255",
+            "sexe_ratio": "62.7%",
+            "age_moyen": "71.37",
+            "avq_physique": "4.11",
+            "avq_relationnel": "2.22",
+            "nb_actes_csarr": "3.56"
           }
         }
       },
@@ -104,6 +92,20 @@
             "avq_physique": "NA",
             "avq_relationnel": "NA",
             "nb_actes_csarr": "NA"
+          }
+        }
+      },
+      "23": {
+        "2318": {
+          "2318LA0": {
+            "nb_journees_total": "122",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "122",
+            "sexe_ratio": "23%",
+            "age_moyen": "66.76",
+            "avq_physique": "4.11",
+            "avq_relationnel": "2.31",
+            "nb_actes_csarr": "3.65"
           }
         }
       }

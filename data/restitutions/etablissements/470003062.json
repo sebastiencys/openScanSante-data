@@ -5,10 +5,12 @@
     "reg_code": "75",
     "reg_name": "NOUVELLE-AQUITAINE",
     "dep_code": "47",
-    "dep_name": "LOT-ET-GARONNE"
+    "dep_name": "LOT-ET-GARONNE",
+    "raison_sociale": "SSR TEMPORAIRE POLYVALENT PEDIATRIQUE - PUJOLS",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
-    "2025-10": {
+    "2025-12": {
       "10": {
         "1003": {
           "1003PA1": {

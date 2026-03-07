@@ -5,7 +5,9 @@
     "reg_code": "53",
     "reg_name": "BRETAGNE",
     "dep_code": "35",
-    "dep_name": "ILLE-ET-VILAINE"
+    "dep_name": "ILLE-ET-VILAINE",
+    "raison_sociale": "CENTRE DE RÉADAPTATION ESCALE THÉBAUDAIS",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {
@@ -21,16 +23,6 @@
             "avq_relationnel": "4.05",
             "nb_actes_csarr": "4.13"
           },
-          "1903KA0": {
-            "nb_journees_total": "20",
-            "nb_journees_hc": "0",
-            "nb_journees_hp": "20",
-            "sexe_ratio": "80%",
-            "age_moyen": "49.8",
-            "avq_physique": "4.55",
-            "avq_relationnel": "4.55",
-            "nb_actes_csarr": "1.2"
-          },
           "1903JA0": {
             "nb_journees_total": "2814",
             "nb_journees_hc": "0",
@@ -40,6 +32,16 @@
             "avq_physique": "4.41",
             "avq_relationnel": "4.11",
             "nb_actes_csarr": "3.05"
+          },
+          "1903KA0": {
+            "nb_journees_total": "20",
+            "nb_journees_hc": "0",
+            "nb_journees_hp": "20",
+            "sexe_ratio": "80%",
+            "age_moyen": "49.8",
+            "avq_physique": "4.55",
+            "avq_relationnel": "4.55",
+            "nb_actes_csarr": "1.2"
           }
         },
         "1909": {

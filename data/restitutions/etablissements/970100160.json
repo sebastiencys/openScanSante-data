@@ -5,36 +5,12 @@
     "reg_code": "01",
     "reg_name": "GUADELOUPE",
     "dep_code": "971",
-    "dep_name": "GUADELOUPE"
+    "dep_name": "GUADELOUPE",
+    "raison_sociale": "HL IRÉNÉE DE BRUYN",
+    "categorie": "CH"
   },
   "periodes": {
-    "2025-03": {
-      "08": {
-        "0874": {
-          "0874UC1": {
-            "nb_journees_total": "24",
-            "nb_journees_hc": "24",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "0%",
-            "age_moyen": "87",
-            "avq_physique": "3.25",
-            "avq_relationnel": "1.5",
-            "nb_actes_csarr": "0.21"
-          }
-        },
-        "0836": {
-          "0836UB2": {
-            "nb_journees_total": "24",
-            "nb_journees_hc": "24",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "0%",
-            "age_moyen": "86",
-            "avq_physique": "2.75",
-            "avq_relationnel": "0.5",
-            "nb_actes_csarr": "0.21"
-          }
-        }
-      },
+    "2026-03": {
       "01": {
         "0121": {
           "0121UA1": {
@@ -59,6 +35,32 @@
             "age_moyen": "77",
             "avq_physique": "6",
             "avq_relationnel": "2",
+            "nb_actes_csarr": "0.21"
+          }
+        }
+      },
+      "08": {
+        "0836": {
+          "0836UB2": {
+            "nb_journees_total": "24",
+            "nb_journees_hc": "24",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "86",
+            "avq_physique": "2.75",
+            "avq_relationnel": "0.5",
+            "nb_actes_csarr": "0.21"
+          }
+        },
+        "0874": {
+          "0874UC1": {
+            "nb_journees_total": "24",
+            "nb_journees_hc": "24",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "87",
+            "avq_physique": "3.25",
+            "avq_relationnel": "1.5",
             "nb_actes_csarr": "0.21"
           }
         }

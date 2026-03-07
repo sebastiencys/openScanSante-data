@@ -5,12 +5,24 @@
     "reg_code": "76",
     "reg_name": "OCCITANIE",
     "dep_code": "82",
-    "dep_name": "TARN-ET-GARONNE"
+    "dep_name": "TARN-ET-GARONNE",
+    "raison_sociale": "CHATEAU DE LONGUES-AYGUES",
+    "categorie": "Privé"
   },
   "periodes": {
     "2025-12": {
       "19": {
         "1903": {
+          "1903SA1": {
+            "nb_journees_total": "1 à 10",
+            "nb_journees_hc": "1 à 10",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "NA",
+            "age_moyen": "NA",
+            "avq_physique": "NA",
+            "avq_relationnel": "NA",
+            "nb_actes_csarr": "NA"
+          },
           "1903SA2": {
             "nb_journees_total": "30",
             "nb_journees_hc": "30",
@@ -20,6 +32,16 @@
             "avq_physique": "4",
             "avq_relationnel": "6",
             "nb_actes_csarr": "2.13"
+          },
+          "1903SB1": {
+            "nb_journees_total": "10185",
+            "nb_journees_hc": "10185",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "72%",
+            "age_moyen": "47.13",
+            "avq_physique": "4.01",
+            "avq_relationnel": "7.16",
+            "nb_actes_csarr": "2.2"
           },
           "1903SB2": {
             "nb_journees_total": "7464",
@@ -31,26 +53,6 @@
             "avq_relationnel": "7.12",
             "nb_actes_csarr": "2.16"
           },
-          "1903UB2": {
-            "nb_journees_total": "135",
-            "nb_journees_hc": "135",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "89.6%",
-            "age_moyen": "37.64",
-            "avq_physique": "4",
-            "avq_relationnel": "7.6",
-            "nb_actes_csarr": "0.94"
-          },
-          "1903SA1": {
-            "nb_journees_total": "1 à 10",
-            "nb_journees_hc": "1 à 10",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "NA",
-            "age_moyen": "NA",
-            "avq_physique": "NA",
-            "avq_relationnel": "NA",
-            "nb_actes_csarr": "NA"
-          },
           "1903UB1": {
             "nb_journees_total": "188",
             "nb_journees_hc": "188",
@@ -61,15 +63,15 @@
             "avq_relationnel": "7.73",
             "nb_actes_csarr": "0.85"
           },
-          "1903SB1": {
-            "nb_journees_total": "10185",
-            "nb_journees_hc": "10185",
+          "1903UB2": {
+            "nb_journees_total": "135",
+            "nb_journees_hc": "135",
             "nb_journees_hp": "0",
-            "sexe_ratio": "72%",
-            "age_moyen": "47.13",
-            "avq_physique": "4.01",
-            "avq_relationnel": "7.16",
-            "nb_actes_csarr": "2.2"
+            "sexe_ratio": "89.6%",
+            "age_moyen": "37.64",
+            "avq_physique": "4",
+            "avq_relationnel": "7.6",
+            "nb_actes_csarr": "0.94"
           }
         },
         "1906": {

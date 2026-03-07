@@ -5,7 +5,9 @@
     "reg_code": "75",
     "reg_name": "NOUVELLE-AQUITAINE",
     "dep_code": "79",
-    "dep_name": "DEUX-SÈVRES"
+    "dep_name": "DEUX-SÈVRES",
+    "raison_sociale": "SSR PEDIATRIQUE LES TERRASSES NIORT",
+    "categorie": "PSPH/EBNL"
   },
   "periodes": {
     "2025-12": {
@@ -41,26 +43,6 @@
             "avq_relationnel": "2",
             "nb_actes_csarr": "2.07"
           },
-          "1006TA1": {
-            "nb_journees_total": "49",
-            "nb_journees_hc": "49",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "0%",
-            "age_moyen": "18",
-            "avq_physique": "5",
-            "avq_relationnel": "2.86",
-            "nb_actes_csarr": "2.88"
-          },
-          "1006PB2": {
-            "nb_journees_total": "303",
-            "nb_journees_hc": "303",
-            "nb_journees_hp": "0",
-            "sexe_ratio": "29.4%",
-            "age_moyen": "13.49",
-            "avq_physique": "6.82",
-            "avq_relationnel": "4.36",
-            "nb_actes_csarr": "3.64"
-          },
           "1006PA1": {
             "nb_journees_total": "3047",
             "nb_journees_hc": "3047",
@@ -70,6 +52,16 @@
             "avq_physique": "5.43",
             "avq_relationnel": "4.09",
             "nb_actes_csarr": "3.42"
+          },
+          "1006PA2": {
+            "nb_journees_total": "823",
+            "nb_journees_hc": "823",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "37.9%",
+            "age_moyen": "14.82",
+            "avq_physique": "5.68",
+            "avq_relationnel": "3.93",
+            "nb_actes_csarr": "3.6"
           },
           "1006PB1": {
             "nb_journees_total": "698",
@@ -81,15 +73,25 @@
             "avq_relationnel": "3.96",
             "nb_actes_csarr": "3.86"
           },
-          "1006PA2": {
-            "nb_journees_total": "823",
-            "nb_journees_hc": "823",
+          "1006PB2": {
+            "nb_journees_total": "303",
+            "nb_journees_hc": "303",
             "nb_journees_hp": "0",
-            "sexe_ratio": "37.9%",
-            "age_moyen": "14.82",
-            "avq_physique": "5.68",
-            "avq_relationnel": "3.93",
-            "nb_actes_csarr": "3.6"
+            "sexe_ratio": "29.4%",
+            "age_moyen": "13.49",
+            "avq_physique": "6.82",
+            "avq_relationnel": "4.36",
+            "nb_actes_csarr": "3.64"
+          },
+          "1006TA1": {
+            "nb_journees_total": "49",
+            "nb_journees_hc": "49",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "18",
+            "avq_physique": "5",
+            "avq_relationnel": "2.86",
+            "nb_actes_csarr": "2.88"
           },
           "1006TA2": {
             "nb_journees_total": "244",
