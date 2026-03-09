@@ -3,6 +3,7 @@ name: Generate release-latest.json
 on:
   release:
     types: [published]
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,11 +16,57 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # ---------------------------------------------------------
+      # 1. Déterminer la source des données release
+      #    - Si déclenché par une release → utiliser github.event.release
+      #    - Si déclenché manuellement → appeler l’API GitHub
+      # ---------------------------------------------------------
+      - name: Determine release source
+        id: source
+        run: |
+          if [[ "${{ github.event_name }}" == "release" ]]; then
+            echo "mode=event" >> $GITHUB_OUTPUT
+          else
+            echo "mode=api" >> $GITHUB_OUTPUT
+          fi
+
+      # ---------------------------------------------------------
+      # 2A. Mode automatique : données fournies par l’événement release
+      # ---------------------------------------------------------
+      - name: Extract release info from event
+        if: steps.source.outputs.mode == 'event'
+        id: release_event
+        run: |
+          echo "name=${{ github.event.release.name }}" >> $GITHUB_OUTPUT
+          echo "tag=${{ github.event.release.tag_name }}" >> $GITHUB_OUTPUT
+          echo "published_at=${{ github.event.release.published_at }}" >> $GITHUB_OUTPUT
+
+      # ---------------------------------------------------------
+      # 2B. Mode manuel : récupérer la dernière release via l’API GitHub
+      # ---------------------------------------------------------
+      - name: Fetch latest release via GitHub API
+        if: steps.source.outputs.mode == 'api'
+        id: release_api
+        run: |
+          echo "Fetching latest release from GitHub API..."
+          DATA=$(curl -s https://api.github.com/repos/${{ github.repository }}/releases/latest)
+
+          NAME=$(echo "$DATA" | jq -r '.name')
+          TAG=$(echo "$DATA" | jq -r '.tag_name')
+          PUBLISHED=$(echo "$DATA" | jq -r '.published_at')
+
+          echo "name=$NAME" >> $GITHUB_OUTPUT
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+          echo "published_at=$PUBLISHED" >> $GITHUB_OUTPUT
+
+      # ---------------------------------------------------------
+      # 3. Vérifier les critères ("Nouvelles données" ou "data-update")
+      # ---------------------------------------------------------
       - name: Check release name or tag
         id: check
         run: |
-          NAME="${{ github.event.release.name }}"
-          TAG="${{ github.event.release.tag_name }}"
+          NAME="${{ steps.release_event.outputs.name || steps.release_api.outputs.name }}"
+          TAG="${{ steps.release_event.outputs.tag || steps.release_api.outputs.tag }}"
 
           echo "Release name: $NAME"
           echo "Release tag: $TAG"
@@ -36,16 +83,26 @@ jobs:
           echo "Release does not match criteria. Skipping."
           exit 0
 
+      # ---------------------------------------------------------
+      # 4. Générer release-latest.json
+      # ---------------------------------------------------------
       - name: Generate release-latest.json
         run: |
+          NAME="${{ steps.release_event.outputs.name || steps.release_api.outputs.name }}"
+          TAG="${{ steps.release_event.outputs.tag || steps.release_api.outputs.tag }}"
+          PUBLISHED="${{ steps.release_event.outputs.published_at || steps.release_api.outputs.published_at }}"
+
           echo "{" > release-latest.json
-          echo "  \"published_at\": \"${{ github.event.release.published_at }}\"," >> release-latest.json
-          echo "  \"name\": \"${{ github.event.release.name }}\"," >> release-latest.json
-          echo "  \"tag\": \"${{ github.event.release.tag_name }}\"" >> release-latest.json
+          echo "  \"published_at\": \"$PUBLISHED\"," >> release-latest.json
+          echo "  \"name\": \"$NAME\"," >> release-latest.json
+          echo "  \"tag\": \"$TAG\"" >> release-latest.json
           echo "}" >> release-latest.json
 
+      # ---------------------------------------------------------
+      # 5. Commit automatique
+      # ---------------------------------------------------------
       - name: Commit release-latest.json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update release-latest.json from release ${{ github.event.release.tag_name }}"
+          commit_message: "Update release-latest.json from release ${{ steps.release_event.outputs.tag || steps.release_api.outputs.tag }}"
           file_pattern: release-latest.json
