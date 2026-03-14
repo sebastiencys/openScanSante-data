@@ -19,6 +19,11 @@ jobs:
           fetch-depth: 0
           ref: ${{ github.ref_name }}
 
+      - name: Debug git state
+        run: |
+          git status
+          git branch -a
+
       # ---------------------------------------------------------
       # 1. Déterminer la source des données release
       #    - Si déclenché par une release → utiliser github.event.release
