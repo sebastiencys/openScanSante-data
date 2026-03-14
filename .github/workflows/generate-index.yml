@@ -20,6 +20,11 @@ jobs:
           fetch-depth: 0
           ref: ${{ github.ref_name }}
 
+      - name: Debug git state
+        run: |
+          git status
+          git branch -a
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
